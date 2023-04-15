@@ -258,5 +258,3 @@ c.scrolling.bar = "overlay"
 config.bind('<Ctrl-=>', 'zoom-in')
 
 config.bind('<Ctrl-->', 'zoom-out')
-
-config.bind('<Escape>', 'mode-leave ;; jseval -q document.activeElement.blur()', mode='insert')
