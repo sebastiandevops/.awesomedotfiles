@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+import os
+from urllib.request import urlopen
+
+# load your autoconfig, use this, if the rest of your config is empty!
+config.load_autoconfig()
+
+config.source('/home/sebastian/.config/qutebrowser/themes/qute-city-lights/city-lights-theme.py')
+
+c.tabs.position = "top"
+c.completion.shrink = True
