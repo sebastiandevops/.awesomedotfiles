@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 clr = {
     "bg": "#191919", # bg, gunmetal OK
+    "bg-material": "#282828",
     "bg-alt": "#171D22", #bg-alt, eerie-black OK
     # "rich-black": "#001021", # rich black FOGRA 29 (extra)
     "smoky-black": "#0F110C", # smoky black (extra) OK
@@ -12,6 +13,7 @@ clr = {
     # "fg-alt": "#728ca0", #base06 (bright white, light-slate-gray)
     "maya-blue": "#5ec4ff", # blue OK
     "paradise-pink": "#d95468", # red OK
+    "pink": "#EC407A",
     # "lava-red": "#C81D25", # red (extra)
     "persian-orange": "#D98E48", # orange OK
     "gold-crayola": "#EBBF83", # yellow OK
@@ -32,7 +34,7 @@ c.colors.completion.fg = clr["fg"]
 
 # Background color of the completion widget for odd rows.
 # Type: QssColor
-c.colors.completion.odd.bg = clr["bg-alt"]
+c.colors.completion.odd.bg = clr["bg-material"]
 
 # Background color of the completion widget for even rows.
 # Type: QssColor
@@ -44,19 +46,19 @@ c.colors.completion.category.fg = clr["cornflower-blue"]
 
 # Background color of the completion widget category headers.
 # Type: QssColor
-c.colors.completion.category.bg = clr["bg-alt"]
+c.colors.completion.category.bg = clr["bg"]
 
 # Top border color of the completion widget category headers.
 # Type: QssColor
-c.colors.completion.category.border.top = clr["smoky-black"]
+c.colors.completion.category.border.top = clr["bg"]
 
 # Bottom border color of the completion widget category headers.
 # Type: QssColor
-c.colors.completion.category.border.bottom = clr["smoky-black"]
+c.colors.completion.category.border.bottom = clr["bg"]
 
 # Foreground color of the selected completion item.
 # Type: QtColor
-c.colors.completion.item.selected.fg = clr["electric-blue"]
+c.colors.completion.item.selected.fg = clr["pink"]
 
 # Background color of the selected completion item.
 # Type: QssColor
@@ -72,11 +74,11 @@ c.colors.completion.item.selected.border.bottom = clr["bg-selected"]
 
 # Foreground color of the matched text in the selected completion item.
 # Type: QtColor
-c.colors.completion.item.selected.match.fg = clr["persian-orange"]
+c.colors.completion.item.selected.match.fg = clr["celadon"]
 
 # Foreground color of the matched text in the completion.
 # Type: QtColor
-c.colors.completion.match.fg = clr["gold-crayola"]
+c.colors.completion.match.fg = clr["fg-white"]
 
 # Color of the scrollbar handle in the completion view.
 # Type: QssColor

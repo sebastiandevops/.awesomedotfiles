@@ -242,7 +242,9 @@ c.url.searchengines = {
 c.downloads.location.directory = '$HOME/Downloads/'
 
 # Bindings for normal mode
+config.bind('t', 'set-cmd-text -s :open -t')
 config.bind("xb", "config-cycle statusbar.show always never")
+config.bind('xx', 'config-cycle statusbar.show always never;; config-cycle tabs.show always never')
 
 c.scrolling.bar = "overlay"
 
@@ -262,9 +264,9 @@ config.bind('<Ctrl-->', 'zoom-out')
 # fonts config
 c.fonts.default_size = "11pt"
 c.fonts.default_family = "FiraCode Nerd Font, Retina"
-c.fonts.statusbar = "default_size FiraCode Nerd Font, Retina"
-c.fonts.tabs.selected = "10pt default_family"
-c.fonts.tabs.unselected = "10pt default_family"
+c.fonts.statusbar = "default_size default_family"
+c.fonts.tabs.selected = '10pt "default_family"'
+c.fonts.tabs.unselected = '10pt "default_family"'
 
 c.fonts.web.family.sans_serif = 'default_family'
 c.fonts.web.family.standard = 'default_family'
