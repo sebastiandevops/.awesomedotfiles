@@ -24,7 +24,8 @@ clr = {
     "maroon-x11": "#b62d65", # violet OK
     "electric-blue": "#70E1E8", # cyan (extra) OK
     "midnight-green-eagle": "#114B5F", # unused (extra) OK
-    "fg-white": "#FFFFFF"
+    "fg-white": "#FFFFFF",
+    "fg-gray": "#C4C7C5",
 }
 
 # Text color of the completion widget. May be a single color to use for
@@ -225,7 +226,7 @@ c.colors.prompts.selected.bg = clr["bg-selected"]
 
 # Foreground color of the statusbar.
 # Type: QssColor
-c.colors.statusbar.normal.fg = clr["celadon"]
+c.colors.statusbar.normal.fg = clr["pink"]
 
 # Background color of the statusbar.
 # Type: QssColor
@@ -311,7 +312,7 @@ c.colors.statusbar.url.success.http.fg = clr["fg"]
 # Foreground color of the URL in the statusbar on successful load
 # (https).
 # Type: QssColor
-c.colors.statusbar.url.success.https.fg = clr["celadon"]
+c.colors.statusbar.url.success.https.fg = clr["fg-gray"]
 
 # Foreground color of the URL in the statusbar when there's a warning.
 # Type: QssColor
