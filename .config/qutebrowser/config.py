@@ -278,14 +278,14 @@ config.bind('<Ctrl-->', 'zoom-out')
 
 # fonts config
 c.fonts.default_size = "11pt"
-c.fonts.default_family = "FiraCode Nerd Font, Retina"
-c.fonts.statusbar = "default_size default_family"
-c.fonts.tabs.selected = '10pt "default_family"'
-c.fonts.tabs.unselected = '10pt "default_family"'
+# c.fonts.default_family = "FiraCode Nerd Font, Retina"
+c.fonts.statusbar = '11pt "FiraCode Nerd Font, Retina"'
+c.fonts.tabs.selected = '10pt "FiraCode Nerd Font, Retina"'
+c.fonts.tabs.unselected = '10pt "FiraCode Nerd Font, Retina"'
 
-c.fonts.web.family.sans_serif = 'default_family'
-c.fonts.web.family.standard = 'default_family'
-c.fonts.web.family.fixed = 'default_family'
+# c.fonts.web.family.sans_serif = 'default_family'
+# c.fonts.web.family.standard = 'default_family'
+# c.fonts.web.family.fixed = 'default_family'
 
 # ======================= Redline Insert Mode ============= {{{
 # Awesome way to open vim from qutebrowser
