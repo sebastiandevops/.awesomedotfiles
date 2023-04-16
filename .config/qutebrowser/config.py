@@ -9,6 +9,7 @@
 # Documentation:
 #   qute://help/configuring.html
 #   qute://help/settings.html
+from os import environ
 import subprocess
 import os
 import qutebrowser.api
@@ -188,7 +189,7 @@ c.completion.shrink = True
 # `{line0}`: Same as `{line}`, but starting from index 0. * `{column0}`:
 # Same as `{column}`, but starting from index 0.
 # Type: ShellCommand
-c.editor.command = ['gvim', '-f', '{file}', '-c', 'normal {line}G{column0}l']
+# c.editor.command = ['gvim', '-f', '{file}', '-c', 'normal {line}G{column0}l']
 
 # Open new tabs (middleclick/ctrl+click) in the background.
 # Type: Bool
@@ -283,3 +284,30 @@ c.fonts.tabs.unselected = '10pt "default_family"'
 c.fonts.web.family.sans_serif = 'default_family'
 c.fonts.web.family.standard = 'default_family'
 c.fonts.web.family.fixed = 'default_family'
+
+# ======================= Redline Insert Mode ============= {{{
+# Awesome way to open vim from qutebrowser
+c.editor.command = [
+    "kitty",
+    "-e",
+    "nvim",
+    "-f",
+    "{file}",
+    "-c",
+    "normal {line}G{column0}1",
+]
+
+config.bind("<Ctrl-a>", "fake-key <Home>", "insert")
+config.bind("<Ctrl-e>", "fake-key <End>", "insert")
+config.bind("<Ctrl-h>", "fake-key <Left>", "insert")
+config.bind("<Mod1-b>", "fake-key <Ctrl-Left>", "insert")
+config.bind("<Ctrl-l>", "fake-key <Right>", "insert")
+config.bind("<Mod1-w>", "fake-key <Ctrl-Right>", "insert")
+config.bind("<Ctrl-k>", "fake-key <Up>", "insert")
+config.bind("<Ctrl-j>", "fake-key <Down>", "insert")
+config.bind("<Mod1-d>", "fake-key <Ctrl-Delete>", "insert")
+config.bind("<Ctrl-d>", "fake-key <Delete>", "insert")
+config.bind("<Crtl-w>", "fake-key <Ctrl-Backspace>", "insert")
+config.bind("<Ctrl-u>", "fake-key <Shift-Home><Delete>", "insert")
+config.bind("<Ctrl-k>", "fake-key <Shift-End><Delete>", "insert")
+config.bind("<Ctrl-x><Ctrl-e>", "edit-text", "insert")
