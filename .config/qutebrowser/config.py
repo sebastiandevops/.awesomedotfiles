@@ -237,6 +237,8 @@ c.colors.webpage.preferred_color_scheme = 'dark'
 # - "With selective inversion of everything": Combines the two variants
 # above.
 c.colors.webpage.darkmode.enabled = True
+c.colors.webpage.darkmode.algorithm = 'lightness-cielab'
+c.colors.webpage.darkmode.contrast = 0.0
 
 c.url.searchengines = {
     'DEFAULT':  'https://duckduckgo.com/?ia=web&q={}',
