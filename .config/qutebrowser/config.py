@@ -236,7 +236,7 @@ c.colors.webpage.preferred_color_scheme = 'dark'
 #
 # - "With selective inversion of everything": Combines the two variants
 # above.
-c.colors.webpage.darkmode.enabled = False
+c.colors.webpage.darkmode.enabled = True
 
 c.url.searchengines = {
     'DEFAULT':  'https://duckduckgo.com/?ia=web&q={}',
@@ -307,7 +307,7 @@ config.bind("<Ctrl-k>", "fake-key <Up>", "insert")
 config.bind("<Ctrl-j>", "fake-key <Down>", "insert")
 config.bind("<Mod1-d>", "fake-key <Ctrl-Delete>", "insert")
 config.bind("<Ctrl-d>", "fake-key <Delete>", "insert")
-config.bind("<Crtl-w>", "fake-key <Ctrl-Backspace>", "insert")
+config.bind("<Ctrl-w>", "fake-key <Ctrl-Backspace>", "insert")
 config.bind("<Ctrl-u>", "fake-key <Shift-Home><Delete>", "insert")
 config.bind("<Ctrl-k>", "fake-key <Shift-End><Delete>", "insert")
 config.bind("<Ctrl-x><Ctrl-e>", "edit-text", "insert")
