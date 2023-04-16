@@ -15,22 +15,24 @@ import os
 import qutebrowser.api
 from qutebrowser.api import interceptor
 
-# Block youtube ads
-def filter_yt(info: interceptor.Request):
-    """Block given request if necessary"""
-    url = info.request_url
-    if (
-        url.host() == "www.youtube.com"
-        and url.path() == "/get_video_info"
-        and "&adformat=" in url.query()
-    ):
-        info.block
-interceptor.register(filter_yt)
+# # Block youtube ads
+# def filter_yt(info: interceptor.Request):
+#     """Block given request if necessary"""
+#     url = info.request_url
+#     if (
+#         url.host() == "www.youtube.com"
+#         and url.path() == "/get_video_info"
+#         and "&adformat=" in url.query()
+#     ):
+#         info.block
+# interceptor.register(filter_yt)
 
 # Change the argument to True to still load settings configured via autoconfig.yml
 config.load_autoconfig(False)
 
 config.source('/home/sebastian/.config/qutebrowser/themes/chili.py')
+
+c.backend = 'webengine'
 
 # Which cookies to accept. With QtWebEngine, this setting also controls
 # other features with tracking capabilities similar to those of cookies;
@@ -83,7 +85,8 @@ config.set('content.cookies.accept', 'all', 'devtools://*')
 # Value to send in the `Accept-Language` header. Note that the value
 # read from JavaScript is always the global value.
 # Type: String
-config.set('content.headers.accept_language', '', 'https://matchmaker.krunker.io/*')
+# config.set('content.headers.accept_language', '', 'https://matchmaker.krunker.io/*')
+c.content.headers.accept_language = 'en-US,en;q=0.9'
 
 # User agent to send.  The following placeholders are defined:  *
 # `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
@@ -115,7 +118,7 @@ config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/{w
 # between 5.12 and 5.14 (inclusive), changing the value exposed to
 # JavaScript requires a restart.
 # Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:90.0) Gecko/20100101 Firefox/90.0', 'https://accounts.google.com/*')
+# config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:90.0) Gecko/20100101 Firefox/90.0', 'https://accounts.google.com/*')
 
 # User agent to send.  The following placeholders are defined:  *
 # `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
@@ -131,7 +134,7 @@ config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:90.0) Gecko
 # between 5.12 and 5.14 (inclusive), changing the value exposed to
 # JavaScript requires a restart.
 # Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99 Safari/537.36', 'https://*.slack.com/*')
+# config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99 Safari/537.36', 'https://*.slack.com/*')
 
 # Load images automatically in web pages.
 # Type: Bool
@@ -278,7 +281,7 @@ config.bind('<Ctrl-->', 'zoom-out')
 
 # fonts config
 c.fonts.default_size = "11pt"
-# c.fonts.default_family = "FiraCode Nerd Font, Retina"
+c.fonts.default_family = "FiraCode Nerd Font, Retina"
 c.fonts.statusbar = '11pt "FiraCode Nerd Font, Retina"'
 c.fonts.tabs.selected = '10pt "FiraCode Nerd Font, Retina"'
 c.fonts.tabs.unselected = '10pt "FiraCode Nerd Font, Retina"'
