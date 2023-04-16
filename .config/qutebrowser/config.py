@@ -30,6 +30,8 @@ from qutebrowser.api import interceptor
 # Change the argument to True to still load settings configured via autoconfig.yml
 config.load_autoconfig(False)
 
+c.content.blocking.method = "both"
+
 config.source('/home/sebastian/.config/qutebrowser/themes/chili.py')
 
 c.backend = 'webengine'
