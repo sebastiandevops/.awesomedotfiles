@@ -165,6 +165,17 @@ config.set('content.javascript.enabled', True, 'qute://*/*')
 #   - ask
 config.set('content.register_protocol_handler', True, 'https://mail.google.com?extsrc=mailto&url=%25s')
 
+# Allow websites to show notifications.
+# Type: BoolAsk
+# Valid values:
+#   - true
+#   - false
+#   - ask
+config.set('content.notifications.enabled', True, 'https://web.telegram.org/z/')
+config.set('content.notifications.enabled', True, 'https://web.whatsapp.com/')
+config.set('content.notifications.enabled', True, 'https://mail.google.com/chat/')
+config.set('content.notifications.enabled', True, 'https://teams.microsoft.com.mcas.ms/')
+
 # Shrink the completion to be smaller than the configured size if there
 # are no scrollbars.
 # Type: Bool
