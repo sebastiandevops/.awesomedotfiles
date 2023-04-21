@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#!/usr/bin/sh
+word="$(rofi -dmenu -i -p "Define:" -theme ~/.config/rofi/launchers/style.rasi)"
+
+# Change the terminal to the one you're using
+alacritty -e $HOME/bin/define $word
