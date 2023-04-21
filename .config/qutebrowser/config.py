@@ -279,9 +279,10 @@ config.bind('<Ctrl-=>', 'zoom-in')
 config.bind('<Ctrl-->', 'zoom-out')
 
 # fonts config
-c.fonts.default_size = "11pt"
+c.fonts.default_size = "10pt"
 c.fonts.default_family = "FiraCode Nerd Font, Retina"
 c.fonts.statusbar = '11pt "FiraCode Nerd Font, Retina"'
+c.fonts.completion.entry = '11pt "FiraCode Nerd Font, Retina"'
 c.fonts.tabs.selected = '10pt "FiraCode Nerd Font, Retina"'
 c.fonts.tabs.unselected = '10pt "FiraCode Nerd Font, Retina"'
 

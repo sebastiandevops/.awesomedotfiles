@@ -26,6 +26,7 @@ clr = {
     "midnight-green-eagle": "#114B5F", # unused (extra) OK
     "fg-white": "#FFFFFF",
     "fg-gray": "#C4C7C5",
+    "gray": "#BBC4C7C5",
 }
 
 # Text color of the completion widget. May be a single color to use for
@@ -143,6 +144,8 @@ c.colors.downloads.stop.bg = clr["bg-lightened"]
 # Type: QtColor
 c.colors.downloads.error.fg = clr["paradise-pink"]
 
+c.hints.border = "0px"
+
 # Font color for hints.
 # Type: QssColor
 c.colors.hints.fg = clr["bg"]
@@ -150,11 +153,11 @@ c.colors.hints.fg = clr["bg"]
 # Background color for hints. Note that you can use a `rgba(...)` value
 # for transparency.
 # Type: QssColor
-c.colors.hints.bg = clr["gold-crayola"]
+c.colors.hints.bg = clr["gray"]
 
 # Font color for the matched part of hints.
 # Type: QtColor
-c.colors.hints.match.fg = clr["fg"]
+c.colors.hints.match.fg = clr["fg-disabled"]
 
 # Text color for the keyhint widget.
 # Type: QssColor
