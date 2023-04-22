@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#!/usr/bin/sh
+string="$(rofi -dmenu -i -p "Cheat:" -theme ~/.config/rofi/launchers/cheat.rasi)"
+# Change the terminal to the one you're using
+kitty --class Dicterm -e $HOME/bin/cheat $(echo $string)
