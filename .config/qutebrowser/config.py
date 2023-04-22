@@ -318,9 +318,12 @@ config.bind("<Ctrl-k>", "fake-key <Shift-End><Delete>", "insert")
 config.bind("<Ctrl-x><Ctrl-e>", "edit-text", "insert")
 
 # Keybinds for qute_search userscript
+
+config.bind(',s','spawn --userscript qute_search -s')
 config.bind(',g','spawn --userscript qute_search -g')
 config.bind(',d','spawn --userscript qute_search -d')
 config.bind(',t','spawn --userscript qute_search -t')
+config.bind('S','spawn --userscript qute_search -s',mode='caret')
 config.bind('G','spawn --userscript qute_search -g',mode='caret')
 config.bind('T','spawn --userscript qute_search -t',mode='caret')
 config.bind('D','spawn --userscript qute_search -d',mode='caret')
