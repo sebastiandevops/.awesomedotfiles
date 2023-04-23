@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+i=1;
+request=""
+for param in "$@"
+do
+  if [ "$param" != "$1" ]; then
+    request+="${param} ";
+  fi
+  i=$((i + 1));
+done
+request=$(echo "$request" | sed -r 's/[ ]+/+/g')
+curl -s cheat.sh/"$1"/"$request" 2>&1 | \
+less -RX
