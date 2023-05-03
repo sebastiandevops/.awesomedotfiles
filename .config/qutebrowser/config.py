@@ -290,6 +290,8 @@ c.fonts.tabs.unselected = '10pt "FiraCode Nerd Font, Retina"'
 # c.fonts.web.family.standard = 'default_family'
 # c.fonts.web.family.fixed = 'default_family'
 
+c.content.javascript.can_open_tabs_automatically = True
+
 # ======================= Redline Insert Mode ============= {{{
 # Awesome way to open vim from qutebrowser
 c.editor.command = [
