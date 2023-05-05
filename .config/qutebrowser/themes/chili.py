@@ -30,6 +30,7 @@ clr = {
     "gray": "#BBe0def4",
     "iris": "#575279",
     "deep-iris": "#907aa9",
+    "grey-iris": "#403d52",
 }
 
 # Text color of the completion widget. May be a single color to use for
@@ -67,7 +68,7 @@ c.colors.completion.item.selected.fg = clr["pink"]
 
 # Background color of the selected completion item.
 # Type: QssColor
-c.colors.completion.item.selected.bg = clr["bg-selected"]
+c.colors.completion.item.selected.bg = clr["grey-iris"]
 
 # Top border color of the selected completion item.
 # Type: QssColor
@@ -362,7 +363,7 @@ c.colors.tabs.selected.odd.fg = clr["fg-white"]
 
 # Background color of selected odd tabs.
 # Type: QtColor
-c.colors.tabs.selected.odd.bg = clr["iris"]
+c.colors.tabs.selected.odd.bg = clr["grey-iris"]
 
 # Foreground color of selected even tabs.
 # Type: QtColor
@@ -370,7 +371,7 @@ c.colors.tabs.selected.even.fg = clr["fg-white"]
 
 # Background color of selected even tabs.
 # Type: QtColor
-c.colors.tabs.selected.even.bg = clr["iris"]
+c.colors.tabs.selected.even.bg = clr["grey-iris"]
 
 # Foreground color of pinned unselected odd tabs.
 # Type: QtColor
@@ -394,7 +395,7 @@ c.colors.tabs.pinned.selected.odd.fg = clr["fg-white"]
 
 # Background color of pinned selected odd tabs.
 # Type: QtColor
-c.colors.tabs.pinned.selected.odd.bg = clr["iris"]
+c.colors.tabs.pinned.selected.odd.bg = clr["grey-iris"]
 
 # Foreground color of pinned selected even tabs.
 # Type: QtColor
@@ -402,7 +403,7 @@ c.colors.tabs.pinned.selected.even.fg = clr["fg"]
 
 # Background color of pinned selected even tabs.
 # Type: QtColor
-c.colors.tabs.pinned.selected.even.bg = clr["iris"]
+c.colors.tabs.pinned.selected.even.bg = clr["grey-iris"]
 
 # Background color for webpages if unset (or empty to use the theme's
 # color).
