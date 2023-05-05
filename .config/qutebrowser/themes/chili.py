@@ -1,32 +1,35 @@
 #!/usr/bin/env python3
 clr = {
-    "bg": "#191919", # bg, gunmetal OK
-    "bg-material": "#282828",
-    "bg-alt": "#171D22", #bg-alt, eerie-black OK
+    "bg": "#191724", # bg, gunmetal OK
+    "bg-material": "#1f1d2e",
+    "bg-alt": "#1f1d2e", #bg-alt, eerie-black OK
     # "rich-black": "#001021", # rich black FOGRA 29 (extra)
-    "smoky-black": "#0F110C", # smoky black (extra) OK
-    "bg-selected": "#10151C", #bg-selected OK
+    "smoky-black": "#191724", # smoky black (extra) OK
+    "bg-selected": "#1f1d2e", #bg-selected OK
     "bg-lightened": "#008b94", #bg-lightened OK
-    "fg-disabled": "#56697a", #fg-disabled OK
-    "fg": "#a0b3c5", #base05 (white-ish, cadet-blue-crayola) OK
+    "fg-disabled": "#9893a5", #fg-disabled OK
+    "fg": "#9893a5", #base05 (white-ish, cadet-blue-crayola) OK
+
     # "cbc-alt": "#9CAABB", # base08 (white-ish, cadet-blue alt)
     # "fg-alt": "#728ca0", #base06 (bright white, light-slate-gray)
     "maya-blue": "#5ec4ff", # blue OK
     "paradise-pink": "#d95468", # red OK
-    "pink": "#EC407A",
+    "pink": "#eb6f92",
     # "lava-red": "#C81D25", # red (extra)
     "persian-orange": "#D98E48", # orange OK
     "gold-crayola": "#EBBF83", # yellow OK
-    "celadon": "#8BD49C", # green OK
+    "celadon": "#9ccfd8", # green OK
     "dark-cyan": "#008b94", # dark cyan OK
-    "cornflower-blue": "#539AFC", # bright blue OK
+    "cornflower-blue": "#eb6f92", # bright blue OK
     "shimmering-blush": "#e27e8d", # magenta OK
-    "maroon-x11": "#b62d65", # violet OK
+    "maroon-x11": "#9ccfd8", # violet OK
     "electric-blue": "#70E1E8", # cyan (extra) OK
     "midnight-green-eagle": "#114B5F", # unused (extra) OK
-    "fg-white": "#FFFFFF",
-    "fg-gray": "#C4C7C5",
-    "gray": "#BBC4C7C5",
+    "fg-white": "#e0def4",
+    "fg-gray": "#e0def4",
+    "gray": "#BBe0def4",
+    "iris": "#575279",
+    "deep-iris": "#907aa9",
 }
 
 # Text color of the completion widget. May be a single color to use for
@@ -289,7 +292,7 @@ c.colors.statusbar.caret.selection.fg = clr["bg"]
 
 # Background color of the statusbar in caret mode with a selection.
 # Type: QssColor
-c.colors.statusbar.caret.selection.bg = clr["cornflower-blue"]
+c.colors.statusbar.caret.selection.bg = clr["dark-cyan"]
 
 # Background color of the progress bar.
 # Type: QssColor
@@ -327,11 +330,11 @@ c.colors.tabs.bar.bg = clr["bg"]
 
 # Color gradient start for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.start = clr["cornflower-blue"]
+c.colors.tabs.indicator.start = clr["deep-iris"]
 
 # Color gradient end for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.stop = clr["midnight-green-eagle"]
+c.colors.tabs.indicator.stop = clr["deep-iris"]
 
 # Color for the tab indicator on errors.
 # Type: QtColor
@@ -339,7 +342,7 @@ c.colors.tabs.indicator.error = clr["paradise-pink"]
 
 # Foreground color of unselected odd tabs.
 # Type: QtColor
-c.colors.tabs.odd.fg = clr["fg"]
+c.colors.tabs.odd.fg = clr["fg-white"]
 
 # Background color of unselected odd tabs.
 # Type: QtColor
@@ -347,7 +350,7 @@ c.colors.tabs.odd.bg = clr["bg"]
 
 # Foreground color of unselected even tabs.
 # Type: QtColor
-c.colors.tabs.even.fg = clr["fg"]
+c.colors.tabs.even.fg = clr["fg-white"]
 
 # Background color of unselected even tabs.
 # Type: QtColor
@@ -359,7 +362,7 @@ c.colors.tabs.selected.odd.fg = clr["fg-white"]
 
 # Background color of selected odd tabs.
 # Type: QtColor
-c.colors.tabs.selected.odd.bg = clr["bg-lightened"]
+c.colors.tabs.selected.odd.bg = clr["iris"]
 
 # Foreground color of selected even tabs.
 # Type: QtColor
@@ -367,23 +370,23 @@ c.colors.tabs.selected.even.fg = clr["fg-white"]
 
 # Background color of selected even tabs.
 # Type: QtColor
-c.colors.tabs.selected.even.bg = clr["bg-lightened"]
+c.colors.tabs.selected.even.bg = clr["iris"]
 
 # Foreground color of pinned unselected odd tabs.
 # Type: QtColor
-c.colors.tabs.pinned.odd.fg = clr["fg"]
+c.colors.tabs.pinned.odd.fg = clr["fg-white"]
 
 # Background color of pinned unselected odd tabs.
 # Type: QtColor
-c.colors.tabs.pinned.odd.bg = clr["bg"]
+c.colors.tabs.pinned.odd.bg = clr["smoky-black"]
 
 # Foreground color of pinned unselected even tabs.
 # Type: QtColor
-c.colors.tabs.pinned.even.fg = clr["fg"]
+c.colors.tabs.pinned.even.fg = clr["fg-white"]
 
 # Background color of pinned unselected even tabs.
 # Type: QtColor
-c.colors.tabs.pinned.even.bg = clr["bg"]
+c.colors.tabs.pinned.even.bg = clr["smoky-black"]
 
 # Foreground color of pinned selected odd tabs.
 # Type: QtColor
@@ -391,7 +394,7 @@ c.colors.tabs.pinned.selected.odd.fg = clr["fg-white"]
 
 # Background color of pinned selected odd tabs.
 # Type: QtColor
-c.colors.tabs.pinned.selected.odd.bg = clr["bg-lightened"]
+c.colors.tabs.pinned.selected.odd.bg = clr["iris"]
 
 # Foreground color of pinned selected even tabs.
 # Type: QtColor
@@ -399,7 +402,7 @@ c.colors.tabs.pinned.selected.even.fg = clr["fg"]
 
 # Background color of pinned selected even tabs.
 # Type: QtColor
-c.colors.tabs.pinned.selected.even.bg = clr["bg-lightened"]
+c.colors.tabs.pinned.selected.even.bg = clr["iris"]
 
 # Background color for webpages if unset (or empty to use the theme's
 # color).
