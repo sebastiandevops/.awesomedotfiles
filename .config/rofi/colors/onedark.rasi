@@ -7,12 +7,12 @@
  **/
 
 * {
-    background:      #19191999;
-    background-alt:  #19191999;
-    foreground:      #FFFFFFFF;
-    foreground-text: #282828FF;
-    selected:        #61AFEFFF;
-    active:          #98C379FF;
-    urgent:          #E06C75FF;
-    border:          #28282888;
+    background:      #19172499;
+    background-alt:  #19172499;
+    foreground:      #e0def4FF;
+    foreground-text: #e0def4FF;
+    selected:        #286983FF;
+    active:          #c4a7e7FF;
+    urgent:          #eb6f92FF;
+    border:          #ebbcbaFF;
 }

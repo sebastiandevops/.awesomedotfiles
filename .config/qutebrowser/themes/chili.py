@@ -6,7 +6,7 @@ clr = {
     # "rich-black": "#001021", # rich black FOGRA 29 (extra)
     "smoky-black": "#191724", # smoky black (extra) OK
     "bg-selected": "#1f1d2e", #bg-selected OK
-    "bg-lightened": "#008b94", #bg-lightened OK
+    "bg-lightened": "#286983", #bg-lightened OK
     "fg-disabled": "#9893a5", #fg-disabled OK
     "fg": "#9893a5", #base05 (white-ish, cadet-blue-crayola) OK
 
@@ -31,6 +31,7 @@ clr = {
     "iris": "#575279",
     "deep-iris": "#907aa9",
     "grey-iris": "#403d52",
+    "rose": "#d7827e",
 }
 
 # Text color of the completion widget. May be a single color to use for
@@ -142,7 +143,7 @@ c.colors.downloads.stop.fg = clr["bg"]
 
 # Color gradient stop for download backgrounds.
 # Type: QtColor
-c.colors.downloads.stop.bg = clr["bg-lightened"]
+c.colors.downloads.stop.bg = clr["rose"]
 
 # Foreground color for downloads with errors.
 # Type: QtColor
