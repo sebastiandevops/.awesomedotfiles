@@ -7,21 +7,21 @@ clr = {
     "smoky-black": "#191724", # smoky black (extra) OK
     "bg-selected": "#1f1d2e", #bg-selected OK
     "bg-lightened": "#286983", #bg-lightened OK
-    "fg-disabled": "#9893a5", #fg-disabled OK
-    "fg": "#9893a5", #base05 (white-ish, cadet-blue-crayola) OK
+    "fg-disabled": "#908caa", #fg-disabled OK
+    "fg": "#908caa", #base05 (white-ish, cadet-blue-crayola) OK
 
     # "cbc-alt": "#9CAABB", # base08 (white-ish, cadet-blue alt)
     # "fg-alt": "#728ca0", #base06 (bright white, light-slate-gray)
-    "maya-blue": "#5ec4ff", # blue OK
-    "paradise-pink": "#d95468", # red OK
-    "pink": "#eb6f92",
+    "maya-blue": "#56949f", # blue OK
+    "paradise-pink": "#eb6f92", # red OK
+    "pink": "#b4637a",
     # "lava-red": "#C81D25", # red (extra)
-    "persian-orange": "#D98E48", # orange OK
-    "gold-crayola": "#EBBF83", # yellow OK
+    "persian-orange": "#ea9d34", # orange OK
+    "gold-crayola": "#f6c177", # yellow OK
     "celadon": "#9ccfd8", # green OK
     "dark-cyan": "#008b94", # dark cyan OK
     "cornflower-blue": "#eb6f92", # bright blue OK
-    "shimmering-blush": "#e27e8d", # magenta OK
+    "shimmering-blush": "#eb6f92", # magenta OK
     "maroon-x11": "#9ccfd8", # violet OK
     "electric-blue": "#70E1E8", # cyan (extra) OK
     "midnight-green-eagle": "#114B5F", # unused (extra) OK
@@ -242,11 +242,11 @@ c.colors.statusbar.normal.bg = clr["bg"]
 
 # Foreground color of the statusbar in insert mode.
 # Type: QssColor
-c.colors.statusbar.insert.fg = clr["bg"]
+c.colors.statusbar.insert.fg = clr["fg-white"]
 
 # Background color of the statusbar in insert mode.
 # Type: QssColor
-c.colors.statusbar.insert.bg = clr["cornflower-blue"]
+c.colors.statusbar.insert.bg = clr["pink"]
 
 # Foreground color of the statusbar in passthrough mode.
 # Type: QssColor
