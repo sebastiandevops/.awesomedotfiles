@@ -293,6 +293,8 @@ c.fonts.contextmenu = '10pt "FiraCode Nerd Font, Retina"'
 
 c.content.javascript.can_open_tabs_automatically = True
 
+c.content.blocking.adblock.lists = ['https://easylist.to/easylist/easylist.txt', 'https://easylist.to/easylist/easyprivacy.txt', 'https://easylist-downloads.adblockplus.org/easylistdutch.txt', 'https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt', 'https://www.i-dont-care-about-cookies.eu/abp/', 'https://secure.fanboy.co.nz/fanboy-cookiemonster.txt']
+
 # ======================= Redline Insert Mode ============= {{{
 # Awesome way to open vim from qutebrowser
 c.editor.command = [
