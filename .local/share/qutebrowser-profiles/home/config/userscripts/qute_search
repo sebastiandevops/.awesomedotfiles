@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+while getopts "sdgwt" par; do
+    case "$par" in
+        "s")echo "open -t https://duckduckgo.com/?q=${QUTE_SELECTED_TEXT//$'\n'/%0A}" >> "$QUTE_FIFO";;
+        "d")echo "open -t https://www.thefreedictionary.com/${QUTE_SELECTED_TEXT}" >> "$QUTE_FIFO";;
+        "g")echo "open -t https://www.google.com/search?=0Qq-XfnqK-qQ1fAPwKGdyAc&q=${QUTE_SELECTED_TEXT//$'\n'/%0A}" >> "$QUTE_FIFO";;
+        "w")echo "open -t https://en.wikipedia.org/w/index.php?search=${QUTE_SELECTED_TEXT}" >> "$QUTE_FIFO";;
+        "t")echo "open -t https://translate.google.com/?sl=auto&tl=es&text=${QUTE_SELECTED_TEXT}" >> "$QUTE_FIFO";;
+    esac
+done
