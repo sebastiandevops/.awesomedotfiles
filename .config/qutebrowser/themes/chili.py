@@ -32,6 +32,7 @@ clr = {
     "deep-iris": "#907aa9",
     "grey-iris": "#403d52",
     "rose": "#d7827e",
+    "rose-low": "#ebbcba",
 }
 
 # Text color of the completion widget. May be a single color to use for
@@ -49,7 +50,7 @@ c.colors.completion.even.bg = clr["bg"]
 
 # Foreground color of completion widget category headers.
 # Type: QtColor
-c.colors.completion.category.fg = clr["cornflower-blue"]
+c.colors.completion.category.fg = clr["rose-low"]
 
 # Background color of the completion widget category headers.
 # Type: QssColor
@@ -65,7 +66,7 @@ c.colors.completion.category.border.bottom = clr["bg"]
 
 # Foreground color of the selected completion item.
 # Type: QtColor
-c.colors.completion.item.selected.fg = clr["pink"]
+c.colors.completion.item.selected.fg = clr["rose"]
 
 # Background color of the selected completion item.
 # Type: QssColor
@@ -81,7 +82,7 @@ c.colors.completion.item.selected.border.bottom = clr["bg-selected"]
 
 # Foreground color of the matched text in the selected completion item.
 # Type: QtColor
-c.colors.completion.item.selected.match.fg = clr["celadon"]
+c.colors.completion.item.selected.match.fg = clr["rose-low"]
 
 # Foreground color of the matched text in the completion.
 # Type: QtColor
@@ -234,7 +235,7 @@ c.colors.prompts.selected.bg = clr["bg-selected"]
 
 # Foreground color of the statusbar.
 # Type: QssColor
-c.colors.statusbar.normal.fg = clr["pink"]
+c.colors.statusbar.normal.fg = clr["rose-low"]
 
 # Background color of the statusbar.
 # Type: QssColor
@@ -266,7 +267,7 @@ c.colors.statusbar.private.bg = clr["bg-alt"]
 
 # Foreground color of the statusbar in command mode.
 # Type: QssColor
-c.colors.statusbar.command.fg = clr["fg"]
+c.colors.statusbar.command.fg = clr["fg-white"]
 
 # Background color of the statusbar in command mode.
 # Type: QssColor
@@ -282,7 +283,7 @@ c.colors.statusbar.command.private.bg = clr["bg"]
 
 # Foreground color of the statusbar in caret mode.
 # Type: QssColor
-c.colors.statusbar.caret.fg = clr["bg"]
+c.colors.statusbar.caret.fg = clr["grey-iris"]
 
 # Background color of the statusbar in caret mode.
 # Type: QssColor
@@ -290,15 +291,15 @@ c.colors.statusbar.caret.bg = clr["maroon-x11"]
 
 # Foreground color of the statusbar in caret mode with a selection.
 # Type: QssColor
-c.colors.statusbar.caret.selection.fg = clr["bg"]
+c.colors.statusbar.caret.selection.fg = clr["fg-white"]
 
 # Background color of the statusbar in caret mode with a selection.
 # Type: QssColor
-c.colors.statusbar.caret.selection.bg = clr["dark-cyan"]
+c.colors.statusbar.caret.selection.bg = clr["bg-lightened"]
 
 # Background color of the progress bar.
 # Type: QssColor
-c.colors.statusbar.progress.bg = clr["cornflower-blue"]
+c.colors.statusbar.progress.bg = clr["rose-low"]
 
 # Default foreground color of the URL in the statusbar.
 # Type: QssColor
@@ -332,11 +333,11 @@ c.colors.tabs.bar.bg = clr["bg"]
 
 # Color gradient start for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.start = clr["deep-iris"]
+c.colors.tabs.indicator.start = clr["rose-low"]
 
 # Color gradient end for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.stop = clr["deep-iris"]
+c.colors.tabs.indicator.stop = clr["rose-low"]
 
 # Color for the tab indicator on errors.
 # Type: QtColor
@@ -400,7 +401,7 @@ c.colors.tabs.pinned.selected.odd.bg = clr["grey-iris"]
 
 # Foreground color of pinned selected even tabs.
 # Type: QtColor
-c.colors.tabs.pinned.selected.even.fg = clr["fg"]
+c.colors.tabs.pinned.selected.even.fg = clr["fg-white"]
 
 # Background color of pinned selected even tabs.
 # Type: QtColor
