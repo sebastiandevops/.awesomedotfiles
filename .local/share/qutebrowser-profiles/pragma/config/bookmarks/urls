@@ -9,10 +9,9 @@ https://gitlab.com/ Projects · Dashboard · GitLab
 https://docs.google.com/document/d/1mjEwvcL5XcFF6MsKz9Mi7gvWQxlWYYFOpZnyh9QW3Zw/edit Guia de inicio nueva persona - talento - Documentos de Google
 https://trello.com/b/LhUumDPM/sprint-24-talento Talento | Trello
 https://trello.com/b/WmKvkScD/sprint1013-de-oct mapa de crecimiento | Trello
-https://mesadeservicio.bancolombia.com/usm/wpf USM
+https://mesadeservicio.bancolombia.com/usm/wpf CA Service Catalog
 https://vpn.bancolombia.com/vpns/f_services_linux.html NetScaler Gateway
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/11213/Monorepositorio Monorepositorios
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT35%20-%20KHONSU/Lista%20de%20producto CMT35 - KHONSU Backlog
 https://devops.apps.bancolombia.com/#/ Hygieia - Bancolombia
 https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_backlogs/backlog/Soporte%20Ingenieria%20de%20SW%20-%20DevExp/Stories Soporte Ingenieria de SW - DevExp Stories Backlog - Boards
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/34004/Instalar-Agente-DeploymentGroups-en-EC2-o-ASG Instalar Agente DeploymentGroups en EC2 o ASG - Overview
@@ -44,7 +43,6 @@ https://bancolombia-my.sharepoint.com/personal/kyduque_bancolombia_com_co/_layou
 https://kyndryl.sharepoint.com/sites/INTEGRACION/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=v7Gm5p&cid=a626409e-2b76-4d5c-94c1-2bc8b9534f78&RootFolder=%2Fsites%2FINTEGRACION%2FShared%20Documents%2FDatastage%20-%20Sterling&FolderCTID=0x012000F32C9A2773D17945A0C3C0D624884F50 DRIVE- Datastage - Sterling - Todos los documentos
 https://10.8.41.143:5601/s/sterling/app/dashboards#/view/c29e4fd0-eac6-11e9-962e-b3e5a67a3e68?_g=(filters:!(),refreshInterval:(pause:!f,value:30000),time:(from:now-6h,to:now)) Estado Transacciones - Elastic
 https://pbmdebqaft03:8001/filegateway/home.do#login IBM Sterling File GatewayQA
-https://mesadeservicio.bancolombia.com/usm/wpf CA Service Catalog
 https://outlook.office.com/mail/ Correo Bancolombia
 https://teams.microsoft.com/_#/conversations/newchat?ctx=chat Microsoft Teams
 https://vpn.bancolombia.com/logon/LogonPoint/tmindex.html VPN BANCOLOMBIA
@@ -88,7 +86,6 @@ http://vbp.bancolombia.corp/vvc/dirseg/seguros_emp/paginas/directorio.aspx Pági
 https://pam.bancolombia.corp/PasswordVault/v10/logon CyberArk Login
 https://catalogoservicios.apps.bancolombia.com/catalog Service Catalog
 https://pbmdebpcsp01.bancolombia.corp/irj/portal SAP - pbmdebpcsp01.bancolombia.corp
-https://home-e31.niceincontact.com/incontact/chatclient/chatclient.aspx?poc=7f629409-a52d-457c-abd6-d82ff310ee49&bu=4597504 MATEO
 https://mesadeservicio.bancolombia.com/CAisd/pdmweb1.exe USD - CA Service Desk Manager
 https://mesadeservicio.bancolombia.com/usm/wpf?Node=iclaunchpad.pad USM - CA Service Catalog
 https://bancolombia.sharepoint.com/sites/co-vsc/SitePages/centro-de-atencion-al-usuario.aspx?OR=Teams-HL&CT=1629500246737 Servicios Corporativos - Centro de atención al usuario MATEO - USM - Autogestión
@@ -201,7 +198,6 @@ https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tec
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13005 Pipelines - Runs for Cloud_operacion_Validar_Conectividad_en_Cloud
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=10779&_a=summary Pipelines - Runs for Admin_eks_resources
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=15641 Pipelines - Runs for Add_Path_Albs
-http://bookmark.placeholder.url/ ---
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13165 Pipelines - Runs for Cloud_operacion_create_user_transferfamily
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=10421 Pipelines - Runs for Operacion_cloud-bk-demanda
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16206 Pipelines - Runs for Cloud_operation_empty_buckets
@@ -250,7 +246,7 @@ https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tec
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17594/Actualizar-Permisos-en-Repos-de-Servicios-Cloud WIKI: Actualizar Permisos en Repos de Servicios Cloud - Overview
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/28887/%C2%BFC%C3%B3mo-utilizar-el-nuevo-archivo-de-despliegue- WIKI: ¿Cómo utilizar el nuevo archivo de despliegue?
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17850/EKS WIKI: EKS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/8961/L%C3%ADnea-base-capacidades-AWS WIKI: Línea base capacidades AWS ALARMAS - Overview
+https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/8961/L%C3%ADnea-base-capacidades-AWS WIKI: Línea base capacidades AWS - MONITOREO
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/27349/Namespaces-EKS WIKI: Namespaces EKS - info importante
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/10698/Crear-Repos-de-Servicios-Cloud WIKI: Crear Repos de Servicios Cloud
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/10700/Repositorios-de-servicios-nube WIKI: Repositorios de servicios nube (crear repos Cloud)
@@ -260,7 +256,6 @@ https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tec
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/20782/Modelo-Operativo-Pipelines-de-Operaci%C3%B3n WIKI: Modelo Operativo Pipelines de Operación
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/6928/Despliegue-autom%C3%A1tico-infrastructura WIKI: Despliegue automático infrastructura
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/14851/Entrega-de-Aplicaciones-Cloud-a-Operaci%C3%B3n WIKI: Entrega de Aplicaciones Cloud a Operación
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/8961/L%C3%ADnea-base-capacidades-AWS WIKI: Línea base capacidades AWS - MONITOREO
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17698/Golden-AMIs WIKI: Golden AMIs
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/18404/Actualizar-Aprobadores-PRs-en-Repos-de-Servicios-Cloud WIKI: Actualizar Aprobadores PRs en Repos de Servicios Cloud
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/4531/Front-Middleware-Nube WIKI: Roadmap Learning Technologies
@@ -284,7 +279,6 @@ https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tec
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0481001_datapower?path=%2F&version=GBtrunk&_a=contents Cloud_aw0481001_datapower - Repos
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=19275&_a=summary Pipelines - Runs for aw0481001_datapower_master (Upload S3 baseline)
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_environments/91?view=resources Environments - operacion-kintoun (aprove pipelines)
-http://bookmark.placeholder.url/ ---
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=18266 Pipelines - Runs for OP_WAS_CertificatesRenewal
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=18259&_a=summary Pipelines - Runs for nu0108001_was_documents (OP_renew_certs)
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12694&_a=summary Pipelines - Runs for nu0108001_was_baseline (subir baseline a bucket S3)
@@ -302,7 +296,6 @@ https://bancolombia.sharepoint.com/teams/MasterTemplatesWASLP Master Templates W
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseProgress?_a=release-task-editor&releaseId=976419&environmentId=3821256 AW0983_ChannelAdaptersWSCASeguroIIB10_PDN  - Pipelines (Probar IIB WSCA)
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0919_IAIMBIIB10 AW0919_IAIMBIIB10 - Repos - Ejemplo IIB-MQ
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=14409&_a=environments-editor-preview AW0919001_IAIMBIIB10_DEV - Pipelines (probar MQ)
-http://bookmark.placeholder.url/ ---
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=11584&branch=trunk mqiib_test - Pipelines
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=1932&path=aw0445001-mqiib-test-dev Library - MQIIB TEST DEV
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build/results?buildId=1759774&view=logs&j=f53227f7-fac3-5283-f03b-0f14e9acdd0c Pipelines - Run 20210923.1 logs (DESPLIEGUE IIB INTEGRACION DEV)
@@ -326,7 +319,6 @@ https://apps-sufi-qa.apps.ambientesbc.lab/SWCLS/GestionarClienteSufi/WEB-INF/wsd
 https://apps-sufi-dev.apps.ambientesbc.lab/SWCLS/GestionarClienteSufi/WEB-INF/wsdl/GestionarClienteSufi.wsdl WSDL CLS DEV
 https://devops.apps.bancolombia.com/#/dashboard/61dde984bc4c020001335d92 Hygieia - AW1194001_SWVHS
 https://devops.apps.bancolombia.com/#/dashboard/61d87cc1bc4c020001335ae9 Hygieia - AW1083001_ServicioWebClienteSufi
-http://bookmark.placeholder.url/ ---
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=5457&path=aw1083001-sufi_apps-sftp-pdn Library - aw1083001-sufi_apps-sftp-pdn
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=5456&path=aw1083001-sufi_apps-sftp-qa Library - aw1083001-sufi_apps-sftp-qa
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=5446&path=aw1083001-sufi_apps-sftp-dev Library - aw1083001-sufi_apps-sftp-dev
@@ -355,7 +347,6 @@ https://devops.apps.bancolombia.com/#/dashboard/5bec865ee4b080252160074a Hygieia
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4505&path=aw0955001-alm-was-pdn Library - aw0955001-alm-was-pdn
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4504&path=aw0955001-alm-was-qa Library - aw0955001-alm-was-qa
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4503&path=aw0955001-alm-was-dev Library - aw0955001-alm-was-dev
-http://bookmark.placeholder.url/ ---
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15795&_a=definition-tasks&environmentId=101104 Release Pipeline - AW0955001_APP_ALM_WAS_AWS_CER
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15688&_a=environments-editor-preview Release Pipeline - AW0955001_APP_ALM_WAS_AWS_DEV
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%c3%ada/_build/index?definitionId=321 Pipelines - Runs for AW0955001_APP_ALM_WAS_CD
@@ -366,7 +357,6 @@ https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnol
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0955001_APP_ALM_WAS_CONFIG AW0955001_APP_ALM_WAS_CONFIG - Repos
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0955001_APP_ALM_WAS_AmbienteLocal AW0955001_APP_ALM_WAS_AmbienteLocal - Repos (GUÍA)
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/27090/Runbook-Generador-Reportes-Hipotecario-AWS Runbook Generador Reportes Hipotecario - AWS - Overview
-http://bookmark.placeholder.url/ ---
 https://devops.apps.bancolombia.com/#/dashboard/60e89e81de630b000139d6dd Hygieia - AW0811001_GeneradorReportesHipotecario
 https://sonar.apps.bancolombia.com/sonarbc/dashboard?id=AW0811001_GeneradorReportesHipotecario SonarQube AW0811001_GeneradorReportesHipotecario
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4723&path=aw0811001-generador-reportes-sftp-pdn Library - aw0811001-generador-reportes-sftp-pdn
@@ -398,7 +388,6 @@ https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnol
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3391&path=aw0453001-hdc-infraprevia-pdn Library - aw0453001-hdc-infraprevia-pdn
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3390&path=aw0453001-hdc-infraprevia-qa Library - aw0453001-hdc-infraprevia-qa
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3387&path=aw0453001-hdc-infraprevia-dev Library - aw0453001-hdc-infraprevia-dev
-http://bookmark.placeholder.url/ ---
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=13847 AW0453001_DeclaracionesDeCambio_DEV
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=13937 AW0453001_DeclaracionesDeCambio_CER
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=13958 AW0453001_DeclaracionesDeCambio_PDN
@@ -423,7 +412,6 @@ https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnol
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16267 Pipelines - Runs for CLOUD_AW0998001_BIZTRACK_OFICIAL
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/CLOUD_AW0998001_BIZTRACK?version=GBtrunk CLOUD_AW0998001_BIZTRACK - Repos
 https://devops.apps.bancolombia.com/#/dashboard/5cd98ba0e4b0e0a2df8f6787 Hygieia - AW1110001_AFC_APP
-http://bookmark.placeholder.url/ ---
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3997&path=aw1110001_AFC_was_pdn Library - aw1110001_AFC_was_pdn
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3996&path=aw1110001_AFC_was_qa Library - aw1110001_AFC_was_qa
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3956&path=aw1110001_AFC_was_dev Library - aw1110001_AFC_was_dev
@@ -465,7 +453,6 @@ https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tec
 https://dev.azure.com/GrupoBancolombia/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa Pedido FW Regllas 1 port 2049 (EJEMPLO SFTP 3)
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0899001_murex_compra_venta_divisas?path=%2Fwas%2Ftemplate.yaml&version=GBtrunk template.yaml - Repos (EJEMPLO SFTP 2)
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0899001_murex_compra_venta_divisas?path=/was/sftp/cloudformation/template-sftp.yaml&version=GBtrunk template-sftp.yaml - Repos (EJEMPLO SFTP 1)
-http://bookmark.placeholder.url/ ---
 https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0899001_MPT AW0899001_MPT - Repos
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=12319&_a=definition-tasks&environmentId=73966 Release Pipeline: AW0364001_ModuloImpuestos_IMVWeb_DEV
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0434001_MurexKMS_HB_Lambda AW0434001_MurexKMS_HB_Lambda - Repos
@@ -528,7 +515,7 @@ https://www.ibm.com/support/pages/websphere-application-server-performance-tunin
 https://10.104.181.42:9043/ibm/console/logon.jsp WAS QA AWS
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=9851&_a=summary cloud_delete_stack
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=18266&_a=summary OP_WAS_CertificatesRenewal
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12744&_a=summary  OpsCloud_UpdateAutoScalingGroup
+https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12744&_a=summary OpsCloud_UpdateAutoScalingGroup
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14951&_a=summary Cloud_operacion_revoke_private_cer
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=10844&_a=summary Cloud_operacion_route53_registry
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=21231&_a=summary Cloud_ops0007001_perfiles_a_demanda_ssm
@@ -544,8 +531,6 @@ https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnol
 https://devops.apps.bancolombia.com/#/dashboard/6376620802f8f30001885e37 Hygieia - MaestrosDataPower
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0467001_RIN AW0467001_RIN - Repo
 https://artifactory.apps.bancolombia.com/ui/repos/tree/General/build-AplicacionesDeTerceros/AW0467001_RIN/SERAPRIN.war RIN - JFrog Artifact
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa Azure DevOps
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_sprints/backlog/CMT35%20-%20KHONSU/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/2022/Sprint%20114 CMT35 - KHONSU Sprint 114 Backlog - Boards
 https://vivaldi.com/bk/walmart-pc Walmart
 https://vivaldi.com/bk/ebay-en-us eBay
 https://www.youtube.com/ YouTube
@@ -561,551 +546,6 @@ https://vivaldi.com/bk/eneba-en-us Eneba
 https://vivaldi.com/bk/sd-social Vivaldi Social
 https://vivaldi.com/bk/sd-community Vivaldi Community
 vivaldi://game/ Vivaldi Game
-https://accounts.google.com/b/0/AddMailService Gmail
-https://bitacora.pragma.com.co/home Bitácora Pragma
-https://trello.com/b/mH2FDdqw/hola-pragma-sebasti%C3%A1n-valencia-sierra Hola Pragma Sebastián Valencia Sierra | Trello
-https://www.efset.org/es/ef-set-50/ Prueba de inglés estandarizada y gratuita ajustada al MCER | EF SET
-https://www.udemy.com/?utm=850856f4649b9f42317bf7f39d07ad79&track=1&pt=2 Udemy
-https://gitlab.com/ Projects · Dashboard · GitLab
-https://docs.google.com/document/d/1mjEwvcL5XcFF6MsKz9Mi7gvWQxlWYYFOpZnyh9QW3Zw/edit Guia de inicio nueva persona - talento - Documentos de Google
-https://trello.com/b/LhUumDPM/sprint-24-talento Talento | Trello
-https://trello.com/b/WmKvkScD/sprint1013-de-oct mapa de crecimiento | Trello
-https://mesadeservicio.bancolombia.com/usm/wpf USM
-https://vpn.bancolombia.com/vpns/f_services_linux.html NetScaler Gateway
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/11213/Monorepositorio Monorepositorios
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT35%20-%20KHONSU/Lista%20de%20producto CMT35 - KHONSU Backlog
-https://devops.apps.bancolombia.com/#/ Hygieia - Bancolombia
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_backlogs/backlog/Soporte%20Ingenieria%20de%20SW%20-%20DevExp/Stories Soporte Ingenieria de SW - DevExp Stories Backlog - Boards
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/34004/Instalar-Agente-DeploymentGroups-en-EC2-o-ASG Instalar Agente DeploymentGroups en EC2 o ASG - Overview
-https://bancolombia.sharepoint.com.mcas.ms/:x:/r/teams/CMT35/_layouts/15/doc2.aspx?sourcedoc=%7B6D2AE205-58FF-4AE6-9083-747E9875D7A8%7D&file=Discovery.xlsx&action=default&mobileredirect=true&ovuser=b5e244bd-c492-495b-8b10-61bfd453e423%2Csevalen%40bancolombia.com.co&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzIzMDEwMTAwOTEzIiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9&cid=6a52c6fb-77a6-4173-a358-d3a39e189af0 Discovery.xlsx
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/20372/WAS WAS - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=25970 AW0455001_OTP_RSA_CONF_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=25971 AW0455001_OTP_RSA_Test_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=25552 AW0455001_OTP_RSA_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=22338&_a=environments-editor-preview AW0455001_OTP_RSA_ADMIN_PDN_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=22337&_a=environments-editor-preview AW0455001_OTP_RSA_ADMIN_DEV _Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=22335&_a=environments-editor-preview AW0455001_OTP_RSA_ADMIN_CER_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=22330&_a=environments-editor-preview AW0455001_OTP_RSA_CER_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=22339&_a=environments-editor-preview AW0455001_OTP_RSA_DEV_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=22329&_a=environments-editor-preview AW0455001_OTP_RSA_PDN_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=22340&_a=environments-editor-preview AW0455001_OTPRSACONF_CER_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=22341&_a=environments-editor-preview AW0455001_OTPRSACONF_DEV_Cloud
-https://account.activedirectory.windowsazure.com.mcas.ms/ChangePassword.aspx Change password
-https://mesadeservicio.bancolombia.com/CAisd/pdmweb.exe USD
-https://devopsucd.bancolombia.corp/ Urban{Code}
-https://pbmdebpaft01:8001/dashboard/Login Sterling B2B PRD
-https://pbmdebpaft01:8001/filegateway/home.do#route Sterling File Gateway PRD
-https://pbmdebpaft05:58003/sccwebclient/manage#server IBM Control Center PRD
-https://pbmdebpaft05:58003/ IBM Control Center JAVA CONSOLE
-https://pbmdebqaft01:58003/ IBM Control Center JAVA CONSOLE QA
-https://login.ibm.com/oidc/sps/auth?client_id=YzJhMjg0YTgtYjc2Yy00&Target=https%3A%2F%2Flogin.ibm.com%2Foidc%2Fendpoint%2Fdefault%2Fauthorize%3FqsId%3D150da2ae-8dee-4224-b999-959e7b10498a%26client_id%3DYzJhMjg0YTgtYjc2Yy00 https://login.ibm.com/oidc/sps/auth?client_id=YzJhMjg0YTgtYjc2Yy00&Target=https%3A%2F%2Flogin.ibm.com%2Foidc%2Fendpoint%2Fdefault%2Fauthorize%3FqsId%3D150da2ae-8dee-4224-b999-959e7b10498a%26client_id%3DYzJhMjg0YTgtYjc2Yy00
-https://pbmdebqaft01:8001/filegateway/home.do#route IBM Sterling File Gateway QA
-https://www.ibm.com/support/fixcentral/ Soporte de IBM: Fix Central
-https://bancolombia-my.sharepoint.com/personal/kyduque_bancolombia_com_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkyduque%5Fbancolombia%5Fcom%5Fco%2FDocuments%2FGrabaciones%2FInformes%20Sterling%2D20220302%5F170509%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&parent=%2Fpersonal%2Fkyduque%5Fbancolombia%5Fcom%5Fco%2FDocuments%2FGrabaciones Video Informe
-https://kyndryl.sharepoint.com/sites/INTEGRACION/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=v7Gm5p&cid=a626409e-2b76-4d5c-94c1-2bc8b9534f78&RootFolder=%2Fsites%2FINTEGRACION%2FShared%20Documents%2FDatastage%20-%20Sterling&FolderCTID=0x012000F32C9A2773D17945A0C3C0D624884F50 DRIVE- Datastage - Sterling - Todos los documentos
-https://10.8.41.143:5601/s/sterling/app/dashboards#/view/c29e4fd0-eac6-11e9-962e-b3e5a67a3e68?_g=(filters:!(),refreshInterval:(pause:!f,value:30000),time:(from:now-6h,to:now)) Estado Transacciones - Elastic
-https://pbmdebqaft03:8001/filegateway/home.do#login IBM Sterling File GatewayQA
-https://mesadeservicio.bancolombia.com/usm/wpf CA Service Catalog
-https://outlook.office.com/mail/ Correo Bancolombia
-https://teams.microsoft.com/_#/conversations/newchat?ctx=chat Microsoft Teams
-https://vpn.bancolombia.com/logon/LogonPoint/tmindex.html VPN BANCOLOMBIA
-https://d-9067080964.awsapps.com/start#/ AWS Console
-https://pam.bancolombia.corp/PasswordVault/v10/logon/radius Cyberark
-https://certlogik.com/decoder/ CSR Decoder and Certificate Decoder | CSR Checker | Certificate Checker
-https://artifactory.apps.bancolombia.com/ui/native/build-AplicacionesDeTerceros/ JFrog-Artifactory
-https://artifactory.apps.bancolombia.com/ui/login/ JFrog-artefactory Login
-https://app.diagrams.net/ Diagrams.net
-https://bancolombia.sharepoint.com/sites/co-iti/SitePages/procesos-ti-circulares.aspx?source=https%3A%2F%2Fbancolombia.sharepoint.com%2Fsites%2Fco-iti%2FSitePages%2FForms%2FByAuthor.aspx&OR=Teams-HL&CT=1653516294109¶ms=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9 Circulares
-https://bancolombia.sharepoint.com/sites/Autogestion/Lists/Solicitudes_VPN_Mateo/AllItems.aspx?OR=Teams-HL&CT=1657550615722&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA2MDYxNDgwNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D Validar VPN
-https://www.ibm.com/support/pages/recommended-updates-websphere-application-server#ver85_0 releases WAS 8.5.5
-https://home-e31.niceincontact.com/incontact/chatclient/chatclient.aspx?poc=7f629409-a52d-457c-abd6-d82ff310ee49&bu=4597504 MATEO
-https://cidr.xyz/ CIDR
-https://career8.successfactors.com/career?career_company=C0003103924P&lang=es_ES&company=C0003103924P&site=&loginFlowRequired=true&_s.crb=hVddctKf8z6X0LF0D8PJWn5b3dyvMCwxsR3%2bPXIb%2fa4%3d Sucess Factors - Portal (Perfil - Vacantes)
-https://performancemanager8.successfactors.com/kba?token=V4-dOBnJ7sr26elWCWKsZg99WcYsGb2YrFZ443x4hMWY-bDt2YFsXifcV1CyCDw7dBWi9XqpbzYHeGpx3KqE-Kf1HX1vqHWgRIjDxWqF3EhMfJPGdjuX8RolgUJe8Saz3Wny-MshnzVQpkRZ7wRK8moqKhEwfKFg4MLI05R74UnOn3ZWWT_O6oMCupDeTK2j6JCJlM8YtANppUSzG6YlwuGBeveQ5XF02BmHdjJEepjJNDjGr0UBcM#/login SuccessFactors Log Conectados Banco 4760
-https://www.office.com/?auth=2 Microsoft Office Home
-https://vpn.bancolombia.com/ CITRIX acceso-remoto VPN 1
-https://accesoremoto2.bancolombia.com/logon/LogonPoint/tmindex.html CITRIX acceso-remoto VPN 2
-https://www.microsoft.com/en-us/download/confirmation.aspx?id=53340 Download C++ Runtime v11.0 framework package for Desktop Bridge (Project Centennial) from Official Microsoft Download Center
-https://bancolombia-my.sharepoint.com/personal/brvalenc_bancolombia_com_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbrvalenc%5Fbancolombia%5Fcom%5Fco%2FDocuments%2FGrabaciones%2FConceptos%20b%C3%A1sicos%20de%20openshift%20dllo%2D20211029%5F141008%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&parent=%2Fpersonal%2Fbrvalenc%5Fbancolombia%5Fcom%5Fco%2FDocuments%2FGrabaciones Conceptos básicos openshift Bryan
-https://vimeo.com/grupobancolombia Formacion Grupo Bancolombia
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-lenguajes-python.aspx?OR=Teams-HL&CT=1635291210653 VSTI Skill Hacking - Python
-https://bancolombia.plateau.com/icontent_e/CUSTOM/bancolombia/self-deploy/production/VTCTFT000003_07192021/pdf/conexionCultural.pdf Agilismo Bancolombia
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/skill-hacking_rutas-de-conocimiento_aws-cloud_cloud-en-bancolombia.aspx#arquitectura-de-referencia AWS Cloud | Cloud en Bancolombia  (VIDEOS BACANOS)
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/cloud.aspx Vicepresidencia de Tecnología - Nube Bancolombia
-https://medium.com/bancolombia-tech Bancolombia Tech – Medium
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_wiki/wikis/Modernizaci%C3%B3n-de-la-Tecnolog%C3%ADa.wiki/4006/Modernizaci%C3%B3n-de-la-Tecnolog%C3%ADa Modernización de la Tecnología - Overview
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/sobre-nosotros-estructura.aspx Equipo de TI
-https://bancolombia.lmseunoconsulting.com/Files/ScormPackageChapter/ScormPackages/Package_2503/story_content/external_files/Resumen%20Habilitar%20y%20Mantener%20Soluciones.pdf Resumen Habilitar y Mantener Soluciones 2
-https://bancolombia.lmseunoconsulting.com/Files/ScormPackageChapter/ScormPackages/Package_2502/story_content/external_files/habilitar%20y%20mantener_23012020.pdf Resumen Habilitar y Mantener Soluciones 1
-https://bancolombia.lmseunoconsulting.com/Files/ScormPackageChapter/ScormPackages/Package_1210/main/pages/p019/p019.hr/RolDuenoProducto.pdf RolDuenoProducto.pdf
-https://bancolombia.lmseunoconsulting.com/Files/ScormPackageChapter/ScormPackages/Package_1210/main/pages/p020/p020.hr/RolScrumMaster.pdf RolScrumMaster.pdf
-https://bancolombia.lmseunoconsulting.com/Files/ScormPackageChapter/ScormPackages/Package_1210/main/pages/p021/p021.hr/CajaDeHerramientas.pdf DefinicionesImportantes.pdf
-https://bwork.apps.bancolombia.com/dashboard/home BWork Reservar
-https://bancolombia.sharepoint.com/:x:/r/sites/CO-VGH/_layouts/15/Doc.aspx?sourcedoc=%7B624AB5D0-5A39-4771-AA5F-C44389EB5502%7D&file=BD%20empleados%20administrativos%20y%20esquema%20de%20trabajo%2031%20Ene%202022.xlsx&action=default&mobileredirect=true&web=1&cid=689d5031-44db-427e-bca0-c02334dc83b4&sourceId=¶ms=%7B%22AppName%22%3A%22Teams-Desktop%22%2C%22AppVersion%22%3A%2227%2F22010300408%22%7D Esquema Teletrabajo Excel
-https://sbcldwdval01.apps.ambientesbc.com/#/login Valko SkillHacking | Conocimiento
-https://app.pluralsight.com/library/?skipOnboarding Home | Pluralsight
-http://sitiovgh.bancolombia.corp/Paginas/fondos.aspx Fondos de Empleados Bancolombia
-http://vbp.bancolombia.corp/vvc/dirseg/seguros_emp/paginas/directorio.aspx Páginas - SEGUROS EMPLEADOS
-https://pam.bancolombia.corp/PasswordVault/v10/logon CyberArk Login
-https://catalogoservicios.apps.bancolombia.com/catalog Service Catalog
-https://pbmdebpcsp01.bancolombia.corp/irj/portal SAP - pbmdebpcsp01.bancolombia.corp
-https://home-e31.niceincontact.com/incontact/chatclient/chatclient.aspx?poc=7f629409-a52d-457c-abd6-d82ff310ee49&bu=4597504 MATEO
-https://mesadeservicio.bancolombia.com/CAisd/pdmweb1.exe USD - CA Service Desk Manager
-https://mesadeservicio.bancolombia.com/usm/wpf?Node=iclaunchpad.pad USM - CA Service Catalog
-https://bancolombia.sharepoint.com/sites/co-vsc/SitePages/centro-de-atencion-al-usuario.aspx?OR=Teams-HL&CT=1629500246737 Servicios Corporativos - Centro de atención al usuario MATEO - USM - Autogestión
-https://ycomolohago.bancolombia.com/tecnologia/Paginas/default.aspx Y Cómo Lo Hago? - Grupo Bancolombia
-https://bancolombia.sharepoint.com/sites/Autogestion/Lists/Solicitudes_VPN_Mateo/AllItems.aspx Consulta_Grupo_Seguridad - Todos los elementos
-https://ycomolohago.bancolombia.com/gestionhumana/Paginas/default.aspx Gestión Humana Beneficios
-https://ycomolohago.bancolombia.com/gestionhumana/Paginas/vacaciones.aspx Vacaciones - Grupo Bancolombia
-https://bancolombia.sharepoint.com/sites/co-clh/SitePages/gestion-humana/Calendario-de-nomina.aspx Calendario de Nómina - Grupo Bancolombia
-http://ptcs.bancolombia.corp/Autogestion/Lists/Laps%20Departamentos/AllItems.aspx Solicitudes Laps Departamentos - Pedir Accesos Administrador PC
-https://accesoremoto.bancolombia.com/logon/LogonPoint/tmindex.html NetScaler Gateway
-https://outlook.office.com/mail/inbox Mail - Bancolombia
-https://bancolombia.sharepoint.com/:x:/r/sites/co-csi/_layouts/15/Doc.aspx?sourcedoc=%7B7d573086-480b-45ba-b20e-1f313d84ab67%7D&action=default&uid=%7B7D573086-480B-45BA-B20E-1F313D84AB67%7D&ListItemId=284&ListId=%7BCB3D0CFB-ED4F-4982-8A67-3371F833F6B9%7D&odsp=1&env=prod&sourceId=¶ms=%7B%22AppName%22%3A%22Teams-Desktop%22%2C%22AppVersion%22%3A%2227%2F22010300409%22%7D&cid=4f2399cf-cff1-4b74-b93c-04b6df141b97 APL03 - Seguridad Desarrollo de Aplicaciones.xlsx
-https://apps.powerapps.com/play/6970bd44-3e28-4eb2-b215-d82ad5078f9c?tenantId=b5e244bd-c492-495b-8b10-61bfd453e423 APB0677_Catálogo Operación Cloud - Power Apps
-https://bancolombia.sharepoint.com/sites/co-mob/SitePages/inscripcion-flexiwork.aspx Movimiento B (esquemas trabajo)
-https://bancolombia.sharepoint.com/sites/co-cvi Calidad de Vida - Beneficios
-https://bancolombia.sharepoint.com/sites/co-portal Communication site - Inicio INTRANET
-https://bancolombia.sharepoint.com/sites/co-clh/SitePages/gestion-humana/Certificados-laborales.aspx?OR=Teams-HL&CT=1645484783507&sourceId=¶ms=%7B%22AppName%22%3A%22Teams-Desktop%22%2C%22AppVersion%22%3A%2227%2F22010300411%22%7D Certificados Laborales Bancolombia
-https://bancolombia.sharepoint.com/sites/co-bem/SitePages/cambios-bem.aspx Grupo Bancolombia - BEM - ¿En qué consiste el cambio?
-https://bancolombia.sharepoint.com/sites/co-tst/SitePages/autogestion-aplicaciones-desarrollo.aspx#azure-devops-%28vsts%29 MAC Bancolombia VSTI - Aplicaciones de Desarrollo
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/sobre-nosotros_sincronizaciones-tecnicas-transversales.aspx Sincronizaciones Técnicas Transversales VSTI
-https://bancolombia.sharepoint.com/sites/co-csi/SitePages/Escaneo_vulnerabilidades_o_lineabase_pordemanda.aspx Ciberseguridad - Escaneo_vulnerabilidades_pordemanda
-https://bancolombia.sharepoint.com/sites/co-fnx/Documentos%20compartidos/Forms/AllItems.aspx?csf=1&web=1&e=ofRECc&cid=e81deab1%2D638b%2D41f9%2D8ad6%2De6672f9c39f6&RootFolder=%2Fsites%2Fco%2Dfnx%2FDocumentos%20compartidos%2FPlantillas&FolderCTID=0x012000FF2EB211984E4149B7DAC6C0C76C40F6 Communication site - Plantillas PowerPoint Presentaciones Bancolombia
-https://bancolombia.sharepoint.com/sites/co-fnx/SitePages/toolkit-evolucion.aspx Toolkit - Communication site
-https://bancolombia.sharepoint.com/sites/co-eai Estrategia, Arquitectura e Innovación TI - Inicio
-https://bancolombia.sharepoint.com/sites/co-pvi Portal de videos - Bancolombia
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/temporal-FuentesConocimientos.aspx Fortalece tu conocimiento
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/skill-hacking-bienvenida-proveedores.aspx Bienvenida a Proveedores de TI
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_sprints/backlog/CACT64%20-%20TRANSFORMACION%20Y%20SOPORTE%20CORE/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/.SUFI/2022/Q1/Sprint%202%20Q1%202022%20(Banco%20Sprint%20133) CACT64 - TRANSFORMACION Y SOPORTE CORE
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_sprints/backlog/CMT35%20-%20KHONSU/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa CMT35 - KHONSU Sprint XX Backlog - Boards
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT35%20-%20KHONSU/Epics CMT35 - KHONSU Epics Backlog - Boards
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_sprints/backlog/CERT46%20-%20OPEN%20SOURCE/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/2021/ CERT46 - OPEN SOURCE Sprint 130 Backlog - Boards
-http://bookmark.placeholder.url/ ---
-http://vsc.bancolombia.corp/vsti/Paginas/Inicio.aspx Componente Mayor Aplicación
-https://devops.apps.bancolombia.com/jaeger/search Jaeger UI Hygieia Help
-https://devopsucd.bancolombia.corp/#welcome UrbanCode Deploy
-https://artifactory.apps.bancolombia.com/ui/repos/tree/General/build-AplicacionesDeTerceros Artifactory: build-AplicacionesDeTerceros NEW
-https://artifactory.apps.bancolombia.com/webapp/#/artifacts/browse/tree/General/build-AplicacionesDeTerceros Artifactory: build-AplicacionesDeTerceros
-https://artifactory.apps.bancolombia.com/webapp/ Artifactory Bancolombia
-https://sonar.apps.bancolombia.com/sonarbc/about SonarQube Bancolombia
-https://dev.azure.com/GrupoBancolombia Azure DevOps Home
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-devops.aspx DevOps
-https://bancolombia.sharepoint.com/sites/co-iti/SitePages/devops.aspx DevOps e Ingeniería de Software Bancolombia
-https://bancolombia.sharepoint.com/:x:/r/sites/co-dds/_layouts/15/Doc.aspx?sourcedoc=%7B4BA61937-30CC-4217-A642-C28CA50975EA%7D&file=Calendario%20Fechas%20Especiales%20y%20Cambios%20Alto%20Impacto.xlsx&action=default&mobileredirect=true Calendario Fechas Especiales y Cambios Alto Impacto.xlsx
-https://client.ext.bluescape.ee-infra.aws.dev/my? Bluescape Plannings
-https://account.activedirectory.windowsazure.com/ChangePassword.aspx Change Active Directory Password
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/cloud-circular-005.aspx Circular 005
-https://bancolombia.sharepoint.com/sites/co-sox Dirección Corporativa SOX
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=3097288 3097288 CMT34 - CMT35-KHONSU-Reglas de FW SUFI - WAS_RIN
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_workitems/edit/3056177 3056177: SP99 Monitoreo conexiones SUFI - FW
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=3048096 CMT34 - Cyborg Backlog - SUFI-Spectrum
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=3007135 CMT34 - Cyborg CMT01 - Kintoun Escaneo instancias DEV
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=2988181 CMT34 - Cyborg Generador-Curiosity 443
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=2958131 CMT34 - Cyborg HDC acceso desde intranet
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=2922872 CMT34 - Cyborg SUFI apps DevOps Pool Agents
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=2916753 CMT34 - Cyborg SUFI apps APM
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=2916046 CMT34 - Cyborg Reglas FW GenRep Sterling Migradas
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=2869832 CMT34 - Cyborg Lista de producto Backlog - SUFI
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_backlogs/backlog/CMT34%20-%20Cyborg/Lista%20de%20producto/?workitem=2860484 CMT34 - Cyborg Lista de producto Backlog - AWS Transfer Family GenRep PDN
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_sprints/backlog/CMT34%20-%20Cyborg/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/2021/Sprint%2093?workitem=2844529 CMT34 - Cyborg Sprint 93 Backlog - BB2/BB4 FW RDS
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_sprints/backlog/CMT34%20-%20Cyborg/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/2021/Sprint%2087?workitem=2640682 CMT34 - Cyborg Sprint 87 Backlog - SFTP 2049
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_sprints/backlog/CMT34%20-%20Cyborg/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/2021/Sprint%2091?workitem=2777793 CMT34 - Cyborg Sprint 91 - AWS Transfer Family SFTP - EFS (Generador)
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_sprints/backlog/CMT34%20-%20Cyborg/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/2021/Sprint%2089?workitem=2706121 CMT34 - Cyborg Sprint 89 Backlog - FW ALM General
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/3082723 3082723: Excepciones Hygieia Acceptance y E2E de Lambda DNS Integración Nube
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/3050630 3050630: Hygieia a Lambda - NU0282001_integracion_nube_dns_HB_Lambda - Boards
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/3009236 3009236: Excepciones Hygieia E2E de aplicaciones de Gestión Documental (BB2) - Boards
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/3002330 Asesoría o Solicitud 3002330: Excepción Caja Negra tablero de Hygieia de aplicaciones Gestión Documental (BBs)
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2988596 2988596: Excepciones Hygieia E2E de aplicaciones SUFI APPS
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2967363 2967363: Excepciones Hygieia Performance de aplicaciones SUFI APPS CORRECCIÓN
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2963262 2963262 [movilizador]: Agregar Movilizador DevOps CAMI
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2962606 2962606: Excepciones Hygieia Seguridad de aplicaciones SUFI APPS
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2961658 2961658: Agregar Movilizador DevOps CAMI
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2923596 2923596: Asesoría Apoyo Actualizar Repos de GITFLOW a TBD (con problemas)
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2919199/ 2919199: Asesoría actualizar usuarios LDAP de Hygieia (no aparecen)
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2872180 2872180: Excepción Caja Negra tablero de Hygieia de aplicaciones SUFI y SVS SUFI
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2872114 2872114: Excepción urban code tablero de Hygieia de aplicaciones SUFI y SVS SUFI
-https://grupobancolombia.visualstudio.com/Soporte%20Ingenier%C3%ADa%20de%20TI/_workitems/edit/2596838 2596838: Excepción urban code tablero SPR 
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_workitems/edit/3046093 3046093: LAMBDA DNS Relación confianza con rol de la cuenta shared
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_workitems/edit/3049403 3049403: PMO30686 - Cloud_aw0716001_sufi_svs - Creación de repositorio SUFI SVS
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_backlogs/backlog/CLOUD04%20-%20OFICINA%20NUBE/Lista%20de%20producto/?workitem=2876683 CLOUD04 - OFICINA NUBE Salida PDN AFC (circular 005)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_workitems/edit/2485830 2485830*: PMO30686 - Cloud_ AW0412001_ALM_SMS - Creación de repositorio
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_workitems/edit/2974728 2974728: EVC00038 - Servicios e Integración - Creación repositorio Cloud_nu0282001_integracion_nube
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=16382 AW1105001_ParametrizadorMetadata_UploadCertificados_PDN - SUBIR A BUCKET S3
-https://bancolombia.sharepoint.com/sites/co-vsti/SitePages/noticias_se-mas-autonomo-en-cloud-aprueba-los-pull-request-y-pipelines-de-operacion-desde-tu-equipo-ti.aspx?utm_campaign=enterate-237&utm_source=email&utm_medium=enterateTI&utm_content=lineamientos-nube&OR=Teams-HL&CT=1641567171212&sourceId=¶ms=%7B%22AppName%22%3A%22Teams-Desktop%22%2C%22AppVersion%22%3A%2227%2F21110108719%22%7D Aprueba los pull request y pipelines desde tu equipo
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_sprints/backlog/OPC04%20-%20SKILLFULLERS/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/2021/Sprint%20124?workitem=2621831 OPC04 - SKILLFULLERS DNS-CERT Admon Tasas
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_backlogs/backlog/OPC04%20-%20SKILLFULLERS/Lista%20de%20producto OPC04 - SKILLFULLERS Contextualización Certificados EKS Khonsu
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_sprints/backlog/OPC01%20-%20MORDOR/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/2022/Sprint%20131?workitem=2873268 OPC01-MORDOR Creación role operaciones WAS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_workitems/edit/2868322 Habilitador 2868322: CMT35-KHONSU-Acompañamiento- validación de permisos sobre clústers EKS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_workitems/edit/2792746 Habilitador 2792746: CMT35-KHONSU-Consultoria control M - Boards
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0196001_gestor?path=/templates/template-sg.yaml Ejemplo SGs importantes
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0445001_mqiib_transversal?version=GBtrunk Cloud_aw0445001_mqiib_transversal - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aws_services_integration_templates?version=GBtrunk Cloud_aws_services_integration_templates - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/NU0007001_ciberseguridad_iac NU0007001_ciberseguridad_iac - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_operacion Cloud_operacion - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_AWS_Templates Cloud_AWS_Templates - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=10405 Pipelines IAM_Users AWS agregar Cuentas a Grupo Seguridad
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12518 Runs for nu0108001_was_master
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionScope=%5CServicios%20e%20integracion Pipelines - Servicios e integracion
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionScope=/Servicios%20e%20integracion Pipelines - TODOS LOS PIPELINES DE INTEGRACION
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionScope=%5CDevOps Pipelines - DevOps folder
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13613 Pipelines - Runs for AW1192003_DevOps_Operations_Sonarqube
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16449&_a=summary Pipelines - Runs for AW1192003_DevOps_Operations_Assign_Mobilizer
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=2021 Pipelines - Runs for DevOps_CreateArtifactoryBuildRepository
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16610&_a=summary Pipelines - Runs for AW1192003_DevOps_Operations_AddApprovers
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14933&_a=summary Pipelines - Runs for AW1192003_DevOps_Operations_Delete-BranchRepository
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13287&_a=summary Runs for AW1192003_DevOps_Operations_RenameRepository
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12105 Runs for AW1192003_DevOps_Operations_Build_Policy
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12220&requestedForFilter=be0ddd35-eee0-611b-81b9-63a88fd2375b Pipelines - Runs for AW1192003_DevOps_Operations_Repository
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW1192003_DevOps_Operations?path=/README.md&_a=preview AW1192003_DevOpsOperations (DevOps Pipelines)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW1192003_DevOps_Operations AW1192003_DevOps_Operations - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13005 Pipelines - Runs for Cloud_operacion_Validar_Conectividad_en_Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=10779&_a=summary Pipelines - Runs for Admin_eks_resources
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=15641 Pipelines - Runs for Add_Path_Albs
-http://bookmark.placeholder.url/ ---
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13165 Pipelines - Runs for Cloud_operacion_create_user_transferfamily
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=10421 Pipelines - Runs for Operacion_cloud-bk-demanda
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16206 Pipelines - Runs for Cloud_operation_empty_buckets
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13534 Pipelines - Runs for Cloud_operacion_Standby_Instance_ASG
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=11372 Pipelines - Runs for ON_RebootInstance
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12744 Pipelines - Runs for OpsCloud_UpdateAutoScalingGroup
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14162 Pipelines - Runs for Cloud_operacion_vpcassociation
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14751&_a=summary Runs for Cloud_operacion_shared_dns_resolver
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=10844 Runs for Cloud_operacion_route53_registry
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=10844&branch=trunk Cloud_operacion_route53_registry - Pipelines
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/33531/Lambda-DNS-Integraci%C3%B3n-Nube-(Update-or-Delete-R53-records) WIKI: Lambda DNS Integración Nube (Update or Delete R53 records)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/20274/Componentes-sat%C3%A9lite Componentes satélite Integración Nube (ELK, MSK, etc)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/32058/Actualizar-Certificados-Digitales-Was WIKI: Actualizar Certificados Digitales Was
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17920/Proceso-de-migraci%C3%B3n-WAS-(TEMPLATES-MAESTROS) WIKI: Proceso de migración WAS (TEMPLATES MAESTROS)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/12635/SonarQube-Pipeline-Build-Monorepo-Clean-Architecture WIKI: SonarQube - Pipeline Build - Monorepo - Clean Architecture
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/96/Mensajes-de-validaci%C3%B3n-en-pol%C3%ADtica WIKI: Mensajes de validación en política PR
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/12408/Errores-Conocidos-Parte-1 WIKI: Errores Conocidos - DevOps iSeries
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/21144/Aprobaci%C3%B3n-de-PR's-en-cada-equipo WIKI: Aprobación de PR's en cada equipo
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/1039/Ejecuci%C3%B3n-pipeline-RM-para-despliegue-en-PDN?anchor=**llenar-orden-de-cambio** WIKI: Ejecución pipeline RM para despliegue en PDN
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/1038/Creacion-pipeline-RM-para-despliegue-en-PDN WIKI: Creacion pipeline RM para despliegue en PDN
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/12613/Lambdas-Sin-HyMS WIKI: Lambdas Sin HyMS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/12611/Lambdas-para-equipos-de-Transformaci%C3%B3n-y-Soporte WIKI: Lambdas para equipos de Transformación y Soporte
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/6348/Creaci%C3%B3n-de-Extensiones WIKI: Creación de Extensiones Azure DevOps
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/11779/Proceso-Para-Excepcionar-Aplicaciones-de-los-diferentes-tipos-de-pruebas WIKI: Proceso Para Excepcionar Aplicaciones de los diferentes tipos de pruebas - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/27177/Pruebas-funcionales-(E2E-aceptaci%C3%B3n-y-unitarias-) WIKI: Pruebas funcionales (E2E, aceptación y unitarias ) - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/315/%C2%BFQu%C3%A9-tener-en-cuenta-antes-de-una-salida-a-PDN- WIKI: ¿Qué tener en cuenta antes de una salida a PDN?
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/115/Hygieia WIKI: Hygieia
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/16678/Extensi%C3%B3n-para-Movilizadores-(Creaci%C3%B3n-de-Repos-asignaci%C3%B3n-de-permisos-asignaci%C3%B3n-de-build-a-PR) WIKI: Extensión para Movilizadores (Repos, permisos, build a PR)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/109/Est%C3%A1ndar-nombramiento-de-Repositorios WIKI: Estándar nombramiento de Repositorios
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/37/Creaci%C3%B3n-de-Repositorios-en-VSTS WIKI: Creación de Repositorios en VSTS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/29013/Windows-Subsystem-for-Linux-(WSL) WIKI: Windows Subsystem for Linux (WSL) - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/15389/Pol%C3%ADticas-Pruebas-Continuas-IAC Políticas Pruebas Continuas IAC - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/10822/PKI-Certificados-Digitales WIKI: PKI - Certificados Digitales - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/25628/Modelo-Implementaci%C3%B3n-WAF-en-AWS WIKI: Modelo Implementación WAF en AWS - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/27463/Resolver-Registros-DNS-On-Premise-en-Recursos-AWS Wiki: Resolver Registros DNS On-Premise en Recursos AWS
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/15389/Pol%C3%ADticas-IAC-Prisma-Cloud WIKI: Políticas IAC Prisma Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/4564/Est%C3%A1ndar-de-etiquetas-(Tags-o-Tagging)-de-recursos-AWS WIKI: Estándar de etiquetas (Tags o Tagging) de recursos AWS - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/12024/%C2%BFC%C3%B3mo-se-documenta-el-proceso-de-pruebas-de-seguridad- WIKI: ¿Cómo se documenta el proceso de pruebas de seguridad?
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/30510/Instalaci%C3%B3n-Virtual-Patching-en-instancias-EC2?anchor=**4-instalaci%C3%B3n-desde-userdata---cloudformation** Instalación Virtual Patching en instancias EC2
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17368/Diagnosticos-de-conectividad-en-Nube-(VPC-Flow-Logs) WIKI: Diagnosticos de conectividad en Nube (VPC Flow Logs)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/27631/A%C3%B1adir-Path-Balanceadores-en-Clusters-EKS WIKI: Añadir Path Balanceadores en Clusters EKS
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/21135/Pol%C3%ADticas-y-Lineamientos-de-Transfer-Family-(SFTP) WIKI: Políticas y Lineamientos de Transfer Family (SFTP)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/21133/AWS-Transfer-Family WIKI: AWS Transfer Family - S3 y EFS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17210/Ejecucci%C3%B3n-de-procesos-Batch WIKI: Ejecucción de procesos Batch
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/29153/API-de-Conocimiento WIKI: API de Conocimiento Cloud
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17594/Actualizar-Permisos-en-Repos-de-Servicios-Cloud WIKI: Actualizar Permisos en Repos de Servicios Cloud - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/28887/%C2%BFC%C3%B3mo-utilizar-el-nuevo-archivo-de-despliegue- WIKI: ¿Cómo utilizar el nuevo archivo de despliegue?
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17850/EKS WIKI: EKS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/8961/L%C3%ADnea-base-capacidades-AWS WIKI: Línea base capacidades AWS ALARMAS - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/27349/Namespaces-EKS WIKI: Namespaces EKS - info importante
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/10698/Crear-Repos-de-Servicios-Cloud WIKI: Crear Repos de Servicios Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/10700/Repositorios-de-servicios-nube WIKI: Repositorios de servicios nube (crear repos Cloud)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/8938/Modelo-Transitorio-de-Cambios-Cloud WIKI: Modelo Transitorio de Cambios Cloud (OC? USD? USM? Ventana?)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/20391/Parchar-Instancias-EC2-AWS WIKI: Parchar Instancias EC2 AWS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/3956/Ingreso-de-Full-Stack-por-comandos-kubectl-a-namespace-en-kubernetes WIKI: Ingreso de Full Stack por comandos kubectl a namespace en kubernetes
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/20782/Modelo-Operativo-Pipelines-de-Operaci%C3%B3n WIKI: Modelo Operativo Pipelines de Operación
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/6928/Despliegue-autom%C3%A1tico-infrastructura WIKI: Despliegue automático infrastructura
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/14851/Entrega-de-Aplicaciones-Cloud-a-Operaci%C3%B3n WIKI: Entrega de Aplicaciones Cloud a Operación
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/8961/L%C3%ADnea-base-capacidades-AWS WIKI: Línea base capacidades AWS - MONITOREO
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17698/Golden-AMIs WIKI: Golden AMIs
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/18404/Actualizar-Aprobadores-PRs-en-Repos-de-Servicios-Cloud WIKI: Actualizar Aprobadores PRs en Repos de Servicios Cloud
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/4531/Front-Middleware-Nube WIKI: Roadmap Learning Technologies
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/27633/Habilitadores-VSTI WIKI: Habilitadores VSTI
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/21144/Aprobaci%C3%B3n-de-PR%27s-en-cada-equipo WIKI: Aprobación de PR's en cada equipo
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/20341/Aprobaci%C3%B3n-de-Pipeline-Operativo WIKI: Aprobación de Pipeline Operativo
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/14767/Procedimiento-Acceso-Consola-AWS WIKI: Procedimiento Acceso Consola AWS - Overview
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/13811/Conferencias-Dojos-y-Art%C3%ADculos WIKI-Conferencias, Dojos y Artículos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/26403/Soy-nuevo-en-NEON WIKI: Soy nuevo en NEON
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_sprints/backlog/INT04%20-%20WATASHI%20(INACTIVA)/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/2021/Sprint%20130?workitem=3088261 INT04 - WATASHI (INACTIVA) Sprint 130 Backlog - Boards
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_workitems/edit/3088297 Plan Evidencias 3088297: Test Plan PMO30686 (Despliegue Lambda DNS Integración Nube) - Boards
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=17957 Release Pipeline - NU0282001_integracion_nube_dns_HB_Lambda
-https://artifactory.apps.bancolombia.com/ui/repos/tree/General/build-NU0282_Servicios Artifacts - NU0282_Servicios (artifacts lambda)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=19032&_a=summary Pipelines - Runs for NU0282001_integracion_nube_dns_HB_Lambda
-https://devops.apps.bancolombia.com/#/dashboard/622b89651bba2600019daf6f Hygieia - NU0282001_integracion_nube_dns_HB_Lambda
-https://sonar.apps.bancolombia.com/sonarbc/dashboard?id=NU0282001_integracion_nube_dns_HB_Lambda SonarQube-NU0282001_integracion_nube_dns_HB_Lambda
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=18689&_a=summary Pipelines - IAC_INT_Lambda-DNS (Infra Deploy)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/NU0282001_integracion_nube_dns_HB_Lambda NU0282001_integracion_nube_HB_Lambda - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_nu0282001_integracion_nube Cloud_nu0282001_integracion_nube - (Lambda DNS new)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=18339&_a=summary Pipelines - Runs for Cloud_aw0481001_datapower_recaudos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0481001_datapower?path=%2F&version=GBtrunk&_a=contents Cloud_aw0481001_datapower - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=19275&_a=summary Pipelines - Runs for aw0481001_datapower_master (Upload S3 baseline)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_environments/91?view=resources Environments - operacion-kintoun (aprove pipelines)
-http://bookmark.placeholder.url/ ---
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=18266 Pipelines - Runs for OP_WAS_CertificatesRenewal
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=18259&_a=summary Pipelines - Runs for nu0108001_was_documents (OP_renew_certs)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12694&_a=summary Pipelines - Runs for nu0108001_was_baseline (subir baseline a bucket S3)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12518&_a=summary Pipelines - Runs for nu0108001_was_master (subir templates maestros)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12093&_a=summary Pipelines - Runs for mqiib_infra-previa (Roles-Policies DNS)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0445001_mqiib_transversal?path=/infrastructure/template.yaml Cloud_aw0445001_mqiib_transversal (Roles-Policies DNS lambda)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=2104&path=nu0108001-was-lp-ami Library - nu0108001-was-lp-ami
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=2102&path=nu0108001-was-fp-ami Library - nu0108001-was-fp-ami
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=2387&path=nu0108001-was-test-fp-dev Library - nu0108001-was-test-fp-dev
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12522&_a=summary Pipelines - nu0108001_was_infra_test (WAS test falso)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_nu0108001_was?path=%2Fmaster Cloud_nu0108001_was - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_nu0108001_was_referencia?path=/&version=GBtrunk&_a=history Cloud_nu0108001_was_referencia - Repos
-https://bancolombia-my.sharepoint.com/personal/saloai_bancolombia_com_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsaloai%5Fbancolombia%5Fcom%5Fco%2FDocuments%2FVideos&ct=1640033338975&or=Teams%2DHL Videos - WAS Masters
-https://bancolombia.sharepoint.com/teams/MasterTemplatesWASLP Master Templates WAS FP/LP - home
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseProgress?_a=release-task-editor&releaseId=976419&environmentId=3821256 AW0983_ChannelAdaptersWSCASeguroIIB10_PDN  - Pipelines (Probar IIB WSCA)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0919_IAIMBIIB10 AW0919_IAIMBIIB10 - Repos - Ejemplo IIB-MQ
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=14409&_a=environments-editor-preview AW0919001_IAIMBIIB10_DEV - Pipelines (probar MQ)
-http://bookmark.placeholder.url/ ---
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=11584&branch=trunk mqiib_test - Pipelines
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=1932&path=aw0445001-mqiib-test-dev Library - MQIIB TEST DEV
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build/results?buildId=1759774&view=logs&j=f53227f7-fac3-5283-f03b-0f14e9acdd0c Pipelines - Run 20210923.1 logs (DESPLIEGUE IIB INTEGRACION DEV)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=14936&_a=definition-pipeline extension_operation_scripts_validations - Pipelines
-https://dev.azure.com/GrupoBancolombia-IntegracionNube/Pruebas/_release?definitionId=4&view=mine&_a=releases MQIIB_SAMPE_TESTS (Sample release MQIIB)
-https://dev.azure.com/GrupoBancolombia-IntegracionNube/Pruebas/_release?definitionId=3&view=mine&_a=releases WAS_LP_SAMPLE_TASKS (Sample release FP)
-https://dev.azure.com/GrupoBancolombia-IntegracionNube/Pruebas/_release?definitionId=2&view=mine&_a=releases WAS_LP_SAMPLE_TASKS (Sample release LP)
-https://dev.azure.com/GrupoBancolombia-IntegracionNube/Pruebas/_build?definitionId=2 Pipelines - Runs for SAMPLE_BUILD_PIPELINE_FOR_WAS_APP
-https://dev.azure.com/GrupoBancolombia-IntegracionNube/Pruebas/_build?definitionId=3 Pipelines - Runs for CLOUD_DEPLOY_WAS_MASTER_FP
-https://dev.azure.com/GrupoBancolombia-IntegracionNube/Pruebas/_build?definitionId=1&_a=summary Pipelines - Runs for CLOUD_DEPLOY_WAS_MASTER_LP
-https://dev.azure.com/GrupoBancolombia-IntegracionNube/Pruebas/_git/WAS_MASTERS?version=GBmain WAS_MASTERS - Repos (Test WAS deployments)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?definitionId=12389&view=mine&_a=releases AW0445001_MQIIB_scripts_extension (Release extension)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12871 Runs for AW0445001_MQIIB_scripts_extension
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0445001_MQIIB_scripts_extension?_a=history AW0445001_MQIIB_scripts_extension - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_workitems/edit/3023964/ DoD Concepto de Calidad 3023964: DOD_SE_PMO32130_319 Migracion AW1083001_Servicio Web Cliente Sufi a la Nube AWS
-https://apps-sufi-dev.apps.ambientesbc.lab/ServicioRecaudos/RecaudosRIN/RecaudosRIN.wsdl WSDL RLS DEV
-https://apps-sufi-qa.apps.ambientesbc.lab/SWVHS/GestionarClienteVehiculoService/GestionarClienteVehiculoService.wsdl WSDL VHS QA
-https://apps-sufi-dev.apps.ambientesbc.lab/SWVHS/GestionarClienteVehiculoService/GestionarClienteVehiculoService.wsdl WSDL VHS DEV
-https://apps-sufi.apps.bancolombia.corp/SWCLS/GestionarClienteSufi/WEB-INF/wsdl/GestionarClienteSufi.wsdl WSDL CLS PDN
-https://apps-sufi-qa.apps.ambientesbc.lab/SWCLS/GestionarClienteSufi/WEB-INF/wsdl/GestionarClienteSufi.wsdl WSDL CLS QA
-https://apps-sufi-dev.apps.ambientesbc.lab/SWCLS/GestionarClienteSufi/WEB-INF/wsdl/GestionarClienteSufi.wsdl WSDL CLS DEV
-https://devops.apps.bancolombia.com/#/dashboard/61dde984bc4c020001335d92 Hygieia - AW1194001_SWVHS
-https://devops.apps.bancolombia.com/#/dashboard/61d87cc1bc4c020001335ae9 Hygieia - AW1083001_ServicioWebClienteSufi
-http://bookmark.placeholder.url/ ---
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=5457&path=aw1083001-sufi_apps-sftp-pdn Library - aw1083001-sufi_apps-sftp-pdn
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=5456&path=aw1083001-sufi_apps-sftp-qa Library - aw1083001-sufi_apps-sftp-qa
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=5446&path=aw1083001-sufi_apps-sftp-dev Library - aw1083001-sufi_apps-sftp-dev
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4855&path=aw1083001-sufi_apps-was-pdn Library - aw1083001-sufi_apps-was-pdn
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4854&path=aw1083001-sufi_apps-was-qa Library - aw1083001-sufi_apps-was-qa
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4853&path=aw1083001-sufi_apps-was-dev Library - aw1083001-sufi_apps-was-dev
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=17550&_a=environments-editor-preview AW0995001_ServicioWebRecaudosSufi
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=17218&_a=environments-editor-preview Release Pipeline - AW1194001_SWVHS
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=16337&_a=environments-editor-preview Release Pipeline - AW1083001_ServicioWebClienteSufi
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=18816&_a=summary Pipelines - cloud_aw1083001_sufi_apps_sftp
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=17418&_a=summary Pipelines - Runs for cloud_aw1083001_sufi_apps_was
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0716001_sufi_svs Cloud_aw0716001_sufi_svs - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw1083001_sufi?path=%2F&version=GBtrunk&_a=contents Cloud_aw1083001_sufi - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=17604 Pipelines - Runs for AW0864001_ListasDeControlSufi
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0864001_ListasDeControlSufi?path=%2F&version=GBdevelop&_a=contents AW0864001_ListasDeControlSufi - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=17601 Pipelines - Runs for AW1082001_ServicioWebObligacionSufi
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW1082001_ServicioWebObligacionSufi?version=GBfeature/appInstaller AW1082001_ServicioWebObligacionSufi - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=17606&_a=summary Pipelines - Runs for AW0995001_ServicioWebRecaudosSufi
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0995001_ServicioWebRecaudosSufi?path=%2F&version=GBdevelop&_a=contents AW0995001_ServicioWebRecaudosSufi - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=17609 Pipelines - Runs for AW1194001_SWVHS
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW1194001_SWVHS?path=%2F&version=GBtrunk&_a=contents AW1194001_SWVHS - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&path=%5CServicios%20e%20integracion%5Caw1083001_sufi&id=17446&repository=AW1083001_ServicioWebClienteSufi&branchName=develop&repositoryType=TfsGit&connectionId&view=Tab_Tasks Build Pipeline - AW1083001_ServicioWebClienteSufi
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW1083001_ServicioWebClienteSufi AW1083001_ServicioWebClienteSufi - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/12880/SUFI WIKI: SUFI runbook
-https://devops.apps.bancolombia.com/#/dashboard/5bec865ee4b080252160074a Hygieia - ALM
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4505&path=aw0955001-alm-was-pdn Library - aw0955001-alm-was-pdn
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4504&path=aw0955001-alm-was-qa Library - aw0955001-alm-was-qa
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4503&path=aw0955001-alm-was-dev Library - aw0955001-alm-was-dev
-http://bookmark.placeholder.url/ ---
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15795&_a=definition-tasks&environmentId=101104 Release Pipeline - AW0955001_APP_ALM_WAS_AWS_CER
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15688&_a=environments-editor-preview Release Pipeline - AW0955001_APP_ALM_WAS_AWS_DEV
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%c3%ada/_build/index?definitionId=321 Pipelines - Runs for AW0955001_APP_ALM_WAS_CD
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=276&view=Tab_Tasks AW0955001_APP_ALM_WAS_CI - Azure DevOps Services
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16615&_a=summary Pipelines - Runs for cloud_aw0955001_alm_was
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0955001_alm?version=GBfeature/party&_a=contents Cloud_aw0955001_alm - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16798 Pipelines - Runs for AW0955001_ALM_JYTHON
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0955001_APP_ALM_WAS_CONFIG AW0955001_APP_ALM_WAS_CONFIG - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0955001_APP_ALM_WAS_AmbienteLocal AW0955001_APP_ALM_WAS_AmbienteLocal - Repos (GUÍA)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/27090/Runbook-Generador-Reportes-Hipotecario-AWS Runbook Generador Reportes Hipotecario - AWS - Overview
-http://bookmark.placeholder.url/ ---
-https://devops.apps.bancolombia.com/#/dashboard/60e89e81de630b000139d6dd Hygieia - AW0811001_GeneradorReportesHipotecario
-https://sonar.apps.bancolombia.com/sonarbc/dashboard?id=AW0811001_GeneradorReportesHipotecario SonarQube AW0811001_GeneradorReportesHipotecario
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4723&path=aw0811001-generador-reportes-sftp-pdn Library - aw0811001-generador-reportes-sftp-pdn
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4722&path=aw0811001-generador-reportes-sftp-qa Library - aw0811001-generador-reportes-sftp-qa
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4696&path=aw0811001-generador_reportes-sftp-dev Library - aw0811001-generador_reportes-sftp-dev
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3651&path=aw0811001-generador_reportes-was-pdn Library - aw0811001-generador_reportes-was-pdn
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3650&path=aw0811001-generador_reportes-was-qa Library - aw0811001-generador_reportes-was-qa
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3560&path=aw0811001-generador_reportes-was-dev Library - aw0811001-generador_reportes-was-dev
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=15222 Releases - AW0811001_GeneradorReportesHipotecario-EKS
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=3283 Release - AW0811001_GeneradorReportesHipotecario_CER
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=3285 AW0811001_GeneradorReportesHipotecario_DEV
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=17077 Pipelines - Runs for cloud_aw0811001_generador_reportes_sftp
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16228&_a=summary Pipelines - Runs for cloud_aw0811001_generador_reportes_eks
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14920 Pipelines - Runs for cloud_aw0811001_generador_reportes_was
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0811001_generador_reportes?path=%2F&version=GBtrunk Cloud_aw0811001_generador_reportes - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16188 Pipelines - Runs for AW0811001_GeneradorReportesHipotecario_eks
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=3787 Pipelines - Runs for AW0811001_GeneradorReportesHipotecario
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0811001_GeneradorReportesHipotecario AW0811001_GeneradorReportesHipotecario - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/25304/Runbook Runbook - HDC
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3351&path=aw0453001-hdc-bd-pdn Library - aw0453001-hdc-bd-pdn
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3350&path=aw0453001-hdc-bd-qa Library - aw0453001-hdc-bd-qa
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3349&path=aw0453001-hdc-bd-dev Library - aw0453001-hdc-bd-dev
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3481&path=aw0453001-hdc-mq-pdn Library - aw0453001-hdc-mq-pdn
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3454&path=aw0453001-hdc-mq-qa Library - aw0453001-hdc-mq-qa
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3396&path=aw0453001-hdc-mq-dev Library - aw0453001-hdc-mq-dev
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3476&path=aw0453001-hdc-was-pdn Library - aw0453001-hdc-was-pdn
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3475&path=aw0453001-hdc-was-qa Library - aw0453001-hdc-was-qa
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3381&path=aw0453001-hdc-was-dev Library - aw0453001-hdc-was-dev
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3391&path=aw0453001-hdc-infraprevia-pdn Library - aw0453001-hdc-infraprevia-pdn
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3390&path=aw0453001-hdc-infraprevia-qa Library - aw0453001-hdc-infraprevia-qa
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3387&path=aw0453001-hdc-infraprevia-dev Library - aw0453001-hdc-infraprevia-dev
-http://bookmark.placeholder.url/ ---
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=13847 AW0453001_DeclaracionesDeCambio_DEV
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=13937 AW0453001_DeclaracionesDeCambio_CER
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=13958 AW0453001_DeclaracionesDeCambio_PDN
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=all&definitionId=10217 AW0453001_DeclaracionesDeCambio_Back_PND
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=all&definitionId=8999 AW0453001_DeclaracionesDeCambio_Back_CER
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=all&definitionId=8997 AW0453001_DeclaracionesDeCambio_Back_DEV
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=all&definitionId=10210 AW0453001_DeclaracionesDeCambio_Front_PDN
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=all&definitionId=8998 AW0453001_DeclaracionesDeCambio_Front_CER
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=all&definitionId=8996 AW0453001_DeclaracionesDeCambio_Front_DEV
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionScope=%5CServicios%20e%20integracion%5Caw0453001_hdc Todos los pipelines build nuevos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?pipelineNameFilter=AW0453001&view=folders Todos los build pipelines AW0453001
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14552 Pipelines - Runs for aw0453001_hdc_db
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14612&_a=summary Pipelines - Runs for aw0453001_hdc_mq
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14602 Pipelines - Runs for aw0453001_hdc_was
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0453001_hdc Cloud_aw0453001_hdc - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0453001_DeclaracionesDeCambio_Front AW0453001_DeclaracionesDeCambio_Front - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0453001_DeclaracionesDeCambio_Back AW0453001_DeclaracionesDeCambio_Back - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4495&path=aw0998001_biztrack_was-qa Library - aw0998001_biztrack_was-qa
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3552&path=aw0998001_biztrack_was-dev Library - aw0998001_biztrack_was-dev
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15945&_a=definition-tasks&environmentId=102540 Release pipeline - AW0998001_MS_AYAX_BANCOLOMBIA_BACKEND_CER_NEW
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15559&_a=definition-variables Release Pipeline - AW0998001_MS_AYAX_BANCOLOMBIA_BACKEND_DEV_NEW
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16267 Pipelines - Runs for CLOUD_AW0998001_BIZTRACK_OFICIAL
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/CLOUD_AW0998001_BIZTRACK?version=GBtrunk CLOUD_AW0998001_BIZTRACK - Repos
-https://devops.apps.bancolombia.com/#/dashboard/5cd98ba0e4b0e0a2df8f6787 Hygieia - AW1110001_AFC_APP
-http://bookmark.placeholder.url/ ---
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3997&path=aw1110001_AFC_was_pdn Library - aw1110001_AFC_was_pdn
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3996&path=aw1110001_AFC_was_qa Library - aw1110001_AFC_was_qa
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3956&path=aw1110001_AFC_was_dev Library - aw1110001_AFC_was_dev
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15098&_a=environments-editor-preview Release Pipeline - AW1110001_AFC_APP-migration
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=2706&_a=environments-editor-preview Release Pipeline - AW1110001_AFC_APP
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15063&_a=environments-editor-preview Release Pipeline - AW1110001_AFC_SHELL-migration
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16505 Pipelines - Runs for AW1110001_AFC_WS-migration
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16085 Pipelines - Runs for AW1110001_AFC_SHELL-migration
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16532 Pipelines - Runs for AW1110001_AFC_APP-migration
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=15656&_a=summary Pipelines - Runs for Cloud_aw1110001_cuentas_afc_was
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW1110001_AFC AW1110001_AFC - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw1110001_cuentas_afc Cloud_aw1110001_cuentas_afc - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3070&path=aw0803001-sincronizador-was-qa Library - aw0803001-sincronizador-was-qa
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=2936&path=aw0803001-sincronizador-was-dev Library - aw0803001-sincronizador-was-dev
-https://artifactory.apps.bancolombia.com/webapp/#/artifacts/browse/tree/General/build-AplicacionesDeTerceros/AW0803001_Sincronizador_OMS/stage/SERAPAXISINL.ear Artifactory EAR adicional
-https://devops.apps.bancolombia.com/#/dashboard/5e99bcb4e4b023ef2ea10962 Hygieia - Sincronizador
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?definitionId=9502&view=mine&_a=releases AW0803001_Sincronizador_OMS_PDN - Release Pipeline
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=9447 AW0803001_Sincronizador_OMS_CER - Release Pipeline
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=9325&_a=environments-editor-preview AW0803001_Sincronizador_OMS_DEV - Release Pipelines
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14090&_a=summary Runs for servidor_auxiliar (TIESTO)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14309 Runs for rds_sincronizador
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13844 Runs for was_sincronizador_oms OFICIAL WAS DEPLOY
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13929&_a=summary Runs OLDS for Sincronizador_oms_infra_deploy
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13844 Runs for Cloud_aw0803001_sincronizador_oms
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0803001_sincronizador_oms?version=GBtrunk&_a=contents Cloud_aw0803001_sincronizador_oms - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=9117 Runs for AW0803001_Sincronizador_OMS
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0803001_Sincronizador_OMS?path=%2F&version=GBmaster&_a=contents AW0803001_Sincronizador_OMS - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=13099&_a=environments-editor-preview Release Pipeline - AW0491001_peq
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0491001_peq AW0491001_peq - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=13732 Build Pipeline - AW0491001_peq
-https://10.104.105.196:9443/BancolombiaALM.WebService/services/TransactionFacade?wsdl ALM-SMS WSDL
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=15455 Pipelines - Runs for cloud_aw0412001_alm_sms_was
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3881&path=aw0412001_ALM_SMS_was_dev Library - aw0412001_ALM_SMS_was_dev
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/ASN0103001_eastwest_out_initlambda ASN0103001_ eastwest_out_initlambda - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_asn0103001_control_ew_out Cloud_asn0103001_control_ew_out - Repos
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=16591&_a=environments-editor-preview Release pipeline - AW0429001_SAS_AML_Rotation_Lambda
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0434001_murex_core Cloud_aw0434001_murex_core - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3482&path=aw0899001-mpt-sftp-dev Library - aw0899001-mpt-sftp-dev (ejemplo)
-https://dev.azure.com/GrupoBancolombia/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa Pedido FW Regllas 1 port 2049 (EJEMPLO SFTP 3)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0899001_murex_compra_venta_divisas?path=%2Fwas%2Ftemplate.yaml&version=GBtrunk template.yaml - Repos (EJEMPLO SFTP 2)
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0899001_murex_compra_venta_divisas?path=/was/sftp/cloudformation/template-sftp.yaml&version=GBtrunk template-sftp.yaml - Repos (EJEMPLO SFTP 1)
-http://bookmark.placeholder.url/ ---
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0899001_MPT AW0899001_MPT - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=12319&_a=definition-tasks&environmentId=73966 Release Pipeline: AW0364001_ModuloImpuestos_IMVWeb_DEV
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0434001_MurexKMS_HB_Lambda AW0434001_MurexKMS_HB_Lambda - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=2438&path=aw0899001-murex-mpt-dev Library aw0899001-murex-mpt-dev
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0899001_murex_compra_venta_divisas?path=%2Faws Cloud_aws0899001_murex_compra_venta_divisas Repos
-https://passwordreset.microsoftonline.com/ Restablecimiento de contraseña de Microsoft Online
-https://pbmdebqbds01:9443/ibm/iis/console/users Consola Datastage Calidad
-https://datastagewas:9443/ibm/iis/console/login Consola Datastage PRD
-https://datastage-was-dev.apps.ambientesbc.lab:9443/ibm/iis/console/login datastage dev nube
-https://datastage-was-qa.apps.ambientesbc.lab:9443/ibm/iis/ds/console/login.jsp Consola operaciones QA Nube
-https://ambientesbancolombia.cloud.com/Citrix/StoreWeb/#/apps/all/static/Todo/ Citrix Datastage
-https://datastagewas:9443/ibm/iis/ds/console/ Consola de operaciones PRD
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/46674/Detener-Jobs-DataStage Jobs DataStage - Overview
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Template_Cloud_Operacion?version=GBfeature/jhavasqu&path=/datastage/create_project.yaml create_project.yaml - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/10016/Automatizaciones-Cloud Automatizaciones Cloud
-https://strelitzia.net/wasXORdecoder/wasXORdecoder.html WebSphere {xor} password decoder and encoder
-https://ddset01:50501/ibm/console/login.do?action=secure WAS DEV BLZ
-https://10.8.3.174:49001/ibm/console/login.do?action=secure WAS PROD BLZ
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=5961&path=aw0266001_blz-infra-eks-dev Library infra dev
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-distributed-task.hub-library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=6124&path=aw0266001_blz-eks-dev Library Group de EKS DEV
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=20625&_a=summary Pipeline infra BLZ
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=19087&_a=environments-editor-preview Pipeline de Release EKS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=20514 Pipeline de Build(Distribución)
-https://artifactory.apps.bancolombia.com/ui/repos/tree/General/build-AplicacionesDeTerceros/AW0266001_BLZ Repositorio de Artifactory modelo caja negra de BLZ EKS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0266001_blz_web Repos-Cloud_aw0266001_blz_web -
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17698/Amazon-Machine-Images-(AMI) Wiki- AMI
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_nu0108001_was Cloud_nu0108001_was - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/NU0108001_WAS_Conf NU0108001_WAS_Conf - Repo-insumos scripts
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=2102&path=nu0108001-was-fp-ami Library was FP
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=2104&path=nu0108001-was-lp-ami Library was LP
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0000_goldenami?path=/deployments/packer-build.yaml packer-build.yaml - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_nu0108001_was?path=/ami_build/FP/Scripts/install.sh install.sh - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=20863 Pipeline AMI WAS LP
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=20840 Pipeline AMI WAS FULL PROFILE
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionScope=%5CServicios%20e%20integracion%5Camis Pipelines - WAS AMIs (FP, LP, IHS)
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=3881&path=aw0412001_ALM_SMS_was_dev Library dev SMS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build/results?buildId=2378932&view=results Pipeline SMS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0412001_alm_sms Cloud_aw0412001_alm_sms - Repo
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0412001_ALM_SMS AW0412001_ALM_SMS - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0467001_rin?path=/was&version=GBfeature/ringc&_a=contents REPO- RIN
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=6304&path=aw0467001_RIN_Grandes_Clientes_was_dev Library infra ringc
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0467001_rin Cloud_aw0467001_rin - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=6318&path=aw0467001_RIN_Grandes_Clientes_was_qa Library infra qa- ringc
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=6319&path=aw0467001_RIN_Grandes_Clientes_was_pdn Library infra pdn ringc
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build/results?buildId=2703638&view=results Pipelines infra ringc
-https://bancolombia.sharepoint.com/teams/CanalesDirectosEmpresas/Documentos%20compartidos/Forms/AllItems.aspx?csf=1&web=1&e=i2bO5j&OR=Teams%2DHL&CT=1656083093363¶ms=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&cid=c33307a7%2D49e8%2D4046%2D89a9%2D626ea99699eb&RootFolder=%2Fteams%2FCanalesDirectosEmpresas%2FDocumentos%20compartidos%2FWEBSERVICES%5FNUBE%2Fcomponentes%5Frin&FolderCTID=0x012000CD56224219F23443A56E05C579E029A5 DRIVE RIN
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_release?_a=releases&view=mine&definitionId=19392 Pipeline Release RINGC
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0467001_RIN_Grandes_Clientes AW0467001_RIN_Grandes_Clientes - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=21144&_a=summary Pipelines Build RINGC
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=19392&_a=definition-pipeline Pipeline Release RINGC
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build/results?buildId=2707506&view=results Pipelines - infra ALM
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/CLOUD_AW0998001_BIZTRACK CLOUD_AW0998001_BIZTRACK - Repos
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=4712&path=aw0998001_biztrack_was-pdn Library pdn
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0955001_alm Cloud_aw0955001_alm - Repos infra
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12935 Pipelines - Runs for Cloud_aw0899001_mpt_was
-https://10.103.10.62:9043/ibm/console/logon.jsp WebSphere Integrated Solutions Console
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw1074003_master_data_managment?path=/config Repos infra
-https://geekflare.com/es/websphere-performance-tuning-toolkit/ ¿Cómo monitorear e identificar problemas de rendimiento en WebSphere?
-https://www.ibm.com/support/pages/websphere-application-server-performance-tuning-toolkit WebSphere Application Server Performance Tuning Toolkit
-https://10.104.181.42:9043/ibm/console/logon.jsp WAS QA AWS
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=9851&_a=summary cloud_delete_stack
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=18266&_a=summary OP_WAS_CertificatesRenewal
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=12744&_a=summary  OpsCloud_UpdateAutoScalingGroup
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=14951&_a=summary Cloud_operacion_revoke_private_cer
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=10844&_a=summary Cloud_operacion_route53_registry
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=21231&_a=summary Cloud_ops0007001_perfiles_a_demanda_ssm
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=15816 Pipelines - Runs for Delete_Offline_DeploymentGroup
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=13482&_a=summary Cloud_operacion_renew_custom_internal_cer
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_build?definitionId=16193&_a=summary Cloud_operacion_remove_cer
-https://calidadet01:50501/ibm/console/login.do?action=secure WAS CALIDAD
-https://10.8.3.174:49001/ibm/console/logon.jsp WAS PDN
-https://grupobancolombia.visualstudio.com/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/_sprints/backlog/CMT35%20-%20KHONSU/Modernizaci%C3%B3n%20de%20la%20Tecnolog%C3%ADa/2022/Sprint%20114 CMT35 - KHONSU Sprint 114 Backlog - Boards
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=6302&path=aw0445001-mqiib-rec-pdn Library - rec pdn
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=21001&branch=trunk mqiib_rec - Pipelines
-https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa.wiki/17920/Proceso-de-migraci%C3%B3n-WAS-(Templates-Maestros) Proceso de migración WAS (Templates Maestros) - Overview
-https://devops.apps.bancolombia.com/#/dashboard/6376620802f8f30001885e37 Hygieia - MaestrosDataPower
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW0467001_RIN AW0467001_RIN - Repo
-https://artifactory.apps.bancolombia.com/ui/repos/tree/General/build-AplicacionesDeTerceros/AW0467001_RIN/SERAPRIN.war RIN - JFrog Artifact
-https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa Azure DevOps
 https://vivaldi.com/bk/sd-browser-features Vivaldi Features
 https://vivaldi.com/bk/sd-webmail Vivaldi Webmail
 https://vivaldi.com/bk/sd-vivaldi-help-en Vivaldi Help
@@ -1121,3 +561,4 @@ https://vivaldi.com/bk/target-us Target
 https://vivaldi.com/bk/sd-instacart-en-us Instacart
 https://vivaldi.com/bk/rakuten-us-bk Rakuten
 https://vivaldi.com/bk/hulu Hulu
+https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15021&_a=definition-pipeline AW0412001_ALM_SMS - Pipelines
