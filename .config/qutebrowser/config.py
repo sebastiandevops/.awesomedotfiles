@@ -282,12 +282,16 @@ config.bind('<Ctrl-->', 'zoom-out')
 c.fonts.default_size = "10pt"
 c.fonts.default_family = "FiraCode Nerd Font, Retina"
 c.fonts.statusbar = 'bold 10.5pt "FiraCode Nerd Font, Retina"'
-c.fonts.completion.entry = '11pt "FiraCode Nerd Font, Retina"'
+c.fonts.completion.category = '10.5pt "FiraCode Nerd Font, Retina"'
+c.fonts.completion.entry = '10.5pt "FiraCode Nerd Font, Retina"'
 c.fonts.tabs.selected = 'bold 10pt "FiraCode Nerd Font, Retina"'
 c.fonts.tabs.unselected = '10pt "FiraCode Nerd Font, Retina"'
 c.fonts.contextmenu = '10pt "FiraCode Nerd Font, Retina"'
 
 c.tabs.padding = {'bottom': 3, 'left': 8, 'right': 8, 'top': 3}
+c.statusbar.padding = {"bottom": 3, "left": 0, "right": 8, "top": 3}
+c.hints.padding = {"bottom": 3, "left": 8, "right": 8, "top": 3}
+c.tabs.indicator.padding = {"bottom": 3, "left": 0, "right": 4, "top": 3}
 
 # c.fonts.web.family.sans_serif = 'default_family'
 # c.fonts.web.family.standard = 'default_family'
