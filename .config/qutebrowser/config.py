@@ -287,6 +287,8 @@ c.fonts.tabs.selected = 'bold 10pt "FiraCode Nerd Font, Retina"'
 c.fonts.tabs.unselected = '10pt "FiraCode Nerd Font, Retina"'
 c.fonts.contextmenu = '10pt "FiraCode Nerd Font, Retina"'
 
+c.tabs.padding = {'bottom': 4, 'left': 8, 'right': 8, 'top': 4}
+
 # c.fonts.web.family.sans_serif = 'default_family'
 # c.fonts.web.family.standard = 'default_family'
 # c.fonts.web.family.fixed = 'default_family'
