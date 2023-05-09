@@ -290,7 +290,7 @@ c.fonts.contextmenu = '10pt "FiraCode Nerd Font, Retina"'
 
 c.tabs.padding = {'bottom': 3, 'left': 8, 'right': 8, 'top': 3}
 c.statusbar.padding = {"bottom": 3, "left": 0, "right": 8, "top": 3}
-c.hints.padding = {"bottom": 3, "left": 8, "right": 8, "top": 3}
+c.hints.padding = {"bottom": 2, "left": 2, "right": 2, "top": 2}
 c.tabs.indicator.padding = {"bottom": 3, "left": 0, "right": 4, "top": 3}
 
 # c.fonts.web.family.sans_serif = 'default_family'
