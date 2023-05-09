@@ -33,6 +33,7 @@ clr = {
     "grey-iris": "#403d52",
     "rose": "#d7827e",
     "rose-low": "#ebbcba",
+    "bg-pine": "#BB286983",
 }
 
 # Text color of the completion widget. May be a single color to use for
@@ -154,16 +155,16 @@ c.hints.border = "0px"
 
 # Font color for hints.
 # Type: QssColor
-c.colors.hints.fg = clr["bg"]
+c.colors.hints.fg = clr["fg-white"]
 
 # Background color for hints. Note that you can use a `rgba(...)` value
 # for transparency.
 # Type: QssColor
-c.colors.hints.bg = clr["gray"]
+c.colors.hints.bg = clr["bg-pine"]
 
 # Font color for the matched part of hints.
 # Type: QtColor
-c.colors.hints.match.fg = clr["fg-disabled"]
+c.colors.hints.match.fg = clr["rose"]
 
 # Text color for the keyhint widget.
 # Type: QssColor
