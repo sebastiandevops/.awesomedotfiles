@@ -14,5 +14,5 @@
     selected:        #286983FF;
     active:          #c4a7e7FF;
     urgent:          #eb6f92FF;
-    border:          #eb6f92FF;
+    border:          #b4637aFF;
 }
