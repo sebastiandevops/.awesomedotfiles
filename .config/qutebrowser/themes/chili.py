@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 clr = {
-    "bg": "#191724", # bg, gunmetal OK
-    "bg-material": "#1f1d2e",
-    "bg-alt": "#1f1d2e", #bg-alt, eerie-black OK
+    "bg": "#282828", # bg, gunmetal OK
+    "bg-material": "#242424",
+    "bg-alt": "#191919", #bg-alt, eerie-black OK
     # "rich-black": "#001021", # rich black FOGRA 29 (extra)
-    "smoky-black": "#191724", # smoky black (extra) OK
-    "bg-selected": "#1f1d2e", #bg-selected OK
+    "smoky-black": "#282828", # smoky black (extra) OK
+    "bg-selected": "#242424", #bg-selected OK
     "bg-lightened": "#286983", #bg-lightened OK
-    "fg-disabled": "#908caa", #fg-disabled OK
-    "fg": "#908caa", #base05 (white-ish, cadet-blue-crayola) OK
+    "fg-disabled": "#909090", #fg-disabled OK
+    "fg": "#909090", #base05 (white-ish, cadet-blue-crayola) OK
 
     # "cbc-alt": "#9CAABB", # base08 (white-ish, cadet-blue alt)
     # "fg-alt": "#728ca0", #base06 (bright white, light-slate-gray)
@@ -28,9 +28,9 @@ clr = {
     "fg-white": "#e0def4",
     "fg-gray": "#e0def4",
     "gray": "#BBe0def4",
-    "iris": "#575279",
-    "deep-iris": "#907aa9",
-    "grey-iris": "#403d52",
+    "iris": "#575757",
+    "deep-iris": "#808080",
+    "grey-iris": "#404040",
     "rose": "#d7827e",
     "rose-low": "#ebbcba",
     "bg-pine": "#BB286983",
@@ -51,7 +51,7 @@ c.colors.completion.even.bg = clr["bg"]
 
 # Foreground color of completion widget category headers.
 # Type: QtColor
-c.colors.completion.category.fg = clr["rose-low"]
+c.colors.completion.category.fg = clr["paradise-pink"]
 
 # Background color of the completion widget category headers.
 # Type: QssColor
@@ -67,7 +67,7 @@ c.colors.completion.category.border.bottom = clr["bg"]
 
 # Foreground color of the selected completion item.
 # Type: QtColor
-c.colors.completion.item.selected.fg = clr["rose"]
+c.colors.completion.item.selected.fg = clr["paradise-pink"]
 
 # Background color of the selected completion item.
 # Type: QssColor
@@ -83,7 +83,7 @@ c.colors.completion.item.selected.border.bottom = clr["bg-selected"]
 
 # Foreground color of the matched text in the selected completion item.
 # Type: QtColor
-c.colors.completion.item.selected.match.fg = clr["rose-low"]
+c.colors.completion.item.selected.match.fg = clr["paradise-pink"]
 
 # Foreground color of the matched text in the completion.
 # Type: QtColor
@@ -145,7 +145,7 @@ c.colors.downloads.stop.fg = clr["bg"]
 
 # Color gradient stop for download backgrounds.
 # Type: QtColor
-c.colors.downloads.stop.bg = clr["rose"]
+c.colors.downloads.stop.bg = clr["paradise-pink"]
 
 # Foreground color for downloads with errors.
 # Type: QtColor
@@ -164,7 +164,7 @@ c.colors.hints.bg = clr["bg-pine"]
 
 # Font color for the matched part of hints.
 # Type: QtColor
-c.colors.hints.match.fg = clr["rose"]
+c.colors.hints.match.fg = clr["paradise-pink"]
 
 # Text color for the keyhint widget.
 # Type: QssColor
@@ -236,7 +236,7 @@ c.colors.prompts.selected.bg = clr["bg-selected"]
 
 # Foreground color of the statusbar.
 # Type: QssColor
-c.colors.statusbar.normal.fg = clr["rose-low"]
+c.colors.statusbar.normal.fg = clr["paradise-pink"]
 
 # Background color of the statusbar.
 # Type: QssColor
@@ -300,7 +300,7 @@ c.colors.statusbar.caret.selection.bg = clr["bg-lightened"]
 
 # Background color of the progress bar.
 # Type: QssColor
-c.colors.statusbar.progress.bg = clr["rose-low"]
+c.colors.statusbar.progress.bg = clr["paradise-pink"]
 
 # Default foreground color of the URL in the statusbar.
 # Type: QssColor
@@ -334,11 +334,11 @@ c.colors.tabs.bar.bg = clr["bg"]
 
 # Color gradient start for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.start = clr["rose-low"]
+c.colors.tabs.indicator.start = clr["paradise-pink"]
 
 # Color gradient end for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.stop = clr["rose-low"]
+c.colors.tabs.indicator.stop = clr["paradise-pink"]
 
 # Color for the tab indicator on errors.
 # Type: QtColor
