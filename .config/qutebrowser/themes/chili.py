@@ -30,7 +30,7 @@ clr = {
     "gray": "#BBe0def4",
     "iris": "#575757",
     "deep-iris": "#808080",
-    "grey-iris": "#404040",
+    "grey-iris": "#484848",
     "rose": "#d7827e",
     "rose-low": "#ebbcba",
     "bg-pine": "#BB286983",
