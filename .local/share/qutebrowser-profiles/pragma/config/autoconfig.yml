@@ -8,3 +8,5 @@ config_version: 2
 settings:
   content.notifications.enabled:
     https://teams.microsoft.com.mcas.ms: true
+  content.register_protocol_handler:
+    https://outlook.office.com?mailtouri=%25s: true
