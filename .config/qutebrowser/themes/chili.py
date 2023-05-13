@@ -2,7 +2,7 @@
 clr = {
     "bg": "#282828", # bg, gunmetal OK
     "bg-material": "#242424",
-    "bg-alt": "#191919", #bg-alt, eerie-black OK
+    "bg-alt": "#121212", #bg-alt, eerie-black OK
     # "rich-black": "#001021", # rich black FOGRA 29 (extra)
     "smoky-black": "#282828", # smoky black (extra) OK
     "bg-selected": "#242424", #bg-selected OK
@@ -15,7 +15,7 @@ clr = {
     "maya-blue": "#56949f", # blue OK
     "paradise-pink": "#eb6f92", # red OK
     "pink": "#b4637a",
-    # "lava-red": "#C81D25", # red (extra)
+    "lava-red": "#C81D25", # red (extra)
     "persian-orange": "#ea9d34", # orange OK
     "gold-crayola": "#f6c177", # yellow OK
     "celadon": "#9ccfd8", # green OK
@@ -26,7 +26,7 @@ clr = {
     "electric-blue": "#70E1E8", # cyan (extra) OK
     "midnight-green-eagle": "#114B5F", # unused (extra) OK
     "fg-white": "#e0def4",
-    "fg-gray": "#e0def4",
+    "fg-gray": "#a09eb4",
     "gray": "#BBe0def4",
     "iris": "#575757",
     "deep-iris": "#808080",
@@ -71,19 +71,19 @@ c.colors.completion.item.selected.fg = clr["paradise-pink"]
 
 # Background color of the selected completion item.
 # Type: QssColor
-c.colors.completion.item.selected.bg = clr["grey-iris"]
+c.colors.completion.item.selected.bg = clr["bg-alt"]
 
 # Top border color of the selected completion item.
 # Type: QssColor
-c.colors.completion.item.selected.border.top = clr["bg-selected"]
+c.colors.completion.item.selected.border.top = clr["bg-alt"]
 
 # Bottom border color of the selected completion item.
 # Type: QssColor
-c.colors.completion.item.selected.border.bottom = clr["bg-selected"]
+c.colors.completion.item.selected.border.bottom = clr["bg-alt"]
 
 # Foreground color of the matched text in the selected completion item.
 # Type: QtColor
-c.colors.completion.item.selected.match.fg = clr["paradise-pink"]
+c.colors.completion.item.selected.match.fg = clr["rose-low"]
 
 # Foreground color of the matched text in the completion.
 # Type: QtColor
@@ -322,7 +322,7 @@ c.colors.statusbar.url.success.http.fg = clr["fg"]
 # Foreground color of the URL in the statusbar on successful load
 # (https).
 # Type: QssColor
-c.colors.statusbar.url.success.https.fg = clr["fg-gray"]
+c.colors.statusbar.url.success.https.fg = clr["fg-white"]
 
 # Foreground color of the URL in the statusbar when there's a warning.
 # Type: QssColor
@@ -334,19 +334,19 @@ c.colors.tabs.bar.bg = clr["bg"]
 
 # Color gradient start for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.start = clr["paradise-pink"]
+c.colors.tabs.indicator.start = clr["pink"]
 
 # Color gradient end for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.stop = clr["paradise-pink"]
+c.colors.tabs.indicator.stop = clr["pink"]
 
 # Color for the tab indicator on errors.
 # Type: QtColor
-c.colors.tabs.indicator.error = clr["paradise-pink"]
+c.colors.tabs.indicator.error = clr["lava-red"]
 
 # Foreground color of unselected odd tabs.
 # Type: QtColor
-c.colors.tabs.odd.fg = clr["fg-white"]
+c.colors.tabs.odd.fg = clr["fg-gray"]
 
 # Background color of unselected odd tabs.
 # Type: QtColor
@@ -354,7 +354,7 @@ c.colors.tabs.odd.bg = clr["bg"]
 
 # Foreground color of unselected even tabs.
 # Type: QtColor
-c.colors.tabs.even.fg = clr["fg-white"]
+c.colors.tabs.even.fg = clr["fg-gray"]
 
 # Background color of unselected even tabs.
 # Type: QtColor
@@ -366,7 +366,7 @@ c.colors.tabs.selected.odd.fg = clr["fg-white"]
 
 # Background color of selected odd tabs.
 # Type: QtColor
-c.colors.tabs.selected.odd.bg = clr["grey-iris"]
+c.colors.tabs.selected.odd.bg = clr["bg-alt"]
 
 # Foreground color of selected even tabs.
 # Type: QtColor
@@ -374,11 +374,11 @@ c.colors.tabs.selected.even.fg = clr["fg-white"]
 
 # Background color of selected even tabs.
 # Type: QtColor
-c.colors.tabs.selected.even.bg = clr["grey-iris"]
+c.colors.tabs.selected.even.bg = clr["bg-alt"]
 
 # Foreground color of pinned unselected odd tabs.
 # Type: QtColor
-c.colors.tabs.pinned.odd.fg = clr["fg-white"]
+c.colors.tabs.pinned.odd.fg = clr["fg-gray"]
 
 # Background color of pinned unselected odd tabs.
 # Type: QtColor
@@ -386,7 +386,7 @@ c.colors.tabs.pinned.odd.bg = clr["smoky-black"]
 
 # Foreground color of pinned unselected even tabs.
 # Type: QtColor
-c.colors.tabs.pinned.even.fg = clr["fg-white"]
+c.colors.tabs.pinned.even.fg = clr["fg-gray"]
 
 # Background color of pinned unselected even tabs.
 # Type: QtColor
@@ -398,7 +398,7 @@ c.colors.tabs.pinned.selected.odd.fg = clr["fg-white"]
 
 # Background color of pinned selected odd tabs.
 # Type: QtColor
-c.colors.tabs.pinned.selected.odd.bg = clr["grey-iris"]
+c.colors.tabs.pinned.selected.odd.bg = clr["bg-alt"]
 
 # Foreground color of pinned selected even tabs.
 # Type: QtColor
@@ -406,7 +406,7 @@ c.colors.tabs.pinned.selected.even.fg = clr["fg-white"]
 
 # Background color of pinned selected even tabs.
 # Type: QtColor
-c.colors.tabs.pinned.selected.even.bg = clr["grey-iris"]
+c.colors.tabs.pinned.selected.even.bg = clr["bg-alt"]
 
 # Background color for webpages if unset (or empty to use the theme's
 # color).
