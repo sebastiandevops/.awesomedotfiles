@@ -1,0 +1,4 @@
+# Always enable extended mode
+-e
+# ColorScheme
+--color dark
