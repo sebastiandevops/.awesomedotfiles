@@ -244,7 +244,7 @@ c.colors.statusbar.normal.bg = clr["bg"]
 
 # Foreground color of the statusbar in insert mode.
 # Type: QssColor
-c.colors.statusbar.insert.fg = clr["fg-white"]
+c.colors.statusbar.insert.fg = clr["bg"]
 
 # Background color of the statusbar in insert mode.
 # Type: QssColor
@@ -284,11 +284,11 @@ c.colors.statusbar.command.private.bg = clr["bg"]
 
 # Foreground color of the statusbar in caret mode.
 # Type: QssColor
-c.colors.statusbar.caret.fg = clr["grey-iris"]
+c.colors.statusbar.caret.fg = clr["bg"]
 
 # Background color of the statusbar in caret mode.
 # Type: QssColor
-c.colors.statusbar.caret.bg = clr["maroon-x11"]
+c.colors.statusbar.caret.bg = clr["rose"]
 
 # Foreground color of the statusbar in caret mode with a selection.
 # Type: QssColor
