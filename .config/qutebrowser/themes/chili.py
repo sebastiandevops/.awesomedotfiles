@@ -6,25 +6,23 @@ clr = {
     # "rich-black": "#001021", # rich black FOGRA 29 (extra)
     "smoky-black": "#282828", # smoky black (extra) OK
     "bg-selected": "#242424", #bg-selected OK
-    "bg-lightened": "#286983", #bg-lightened OK
+    "pine": "#286983", #bg-lightened OK
     "fg-disabled": "#909090", #fg-disabled OK
     "fg": "#909090", #base05 (white-ish, cadet-blue-crayola) OK
 
     # "cbc-alt": "#9CAABB", # base08 (white-ish, cadet-blue alt)
     # "fg-alt": "#728ca0", #base06 (bright white, light-slate-gray)
-    "maya-blue": "#56949f", # blue OK
-    "paradise-pink": "#eb6f92", # red OK
-    "pink": "#b4637a",
+    "maya-blue": "#4889A3", # blue OK
+    "love-low": "#eb6f92", # red OK
+    "love": "#b4637a",
     "lava-red": "#C81D25", # red (extra)
     "persian-orange": "#ea9d34", # orange OK
     "gold-crayola": "#f6c177", # yellow OK
     "celadon": "#9ccfd8", # green OK
     "dark-cyan": "#008b94", # dark cyan OK
-    "cornflower-blue": "#eb6f92", # bright blue OK
-    "shimmering-blush": "#eb6f92", # magenta OK
     "maroon-x11": "#9ccfd8", # violet OK
     "electric-blue": "#70E1E8", # cyan (extra) OK
-    "midnight-green-eagle": "#114B5F", # unused (extra) OK
+    "midnight-green-eagle": "#185973", # unused (extra) OK
     "fg-white": "#e0def4",
     "fg-gray": "#a09eb4",
     "gray": "#BBe0def4",
@@ -51,7 +49,7 @@ c.colors.completion.even.bg = clr["bg"]
 
 # Foreground color of completion widget category headers.
 # Type: QtColor
-c.colors.completion.category.fg = clr["paradise-pink"]
+c.colors.completion.category.fg = clr["love-low"]
 
 # Background color of the completion widget category headers.
 # Type: QssColor
@@ -67,7 +65,7 @@ c.colors.completion.category.border.bottom = clr["bg"]
 
 # Foreground color of the selected completion item.
 # Type: QtColor
-c.colors.completion.item.selected.fg = clr["paradise-pink"]
+c.colors.completion.item.selected.fg = clr["love-low"]
 
 # Background color of the selected completion item.
 # Type: QssColor
@@ -137,7 +135,7 @@ c.colors.downloads.start.fg = clr["bg"]
 
 # Color gradient start for download backgrounds.
 # Type: QtColor
-c.colors.downloads.start.bg = clr["cornflower-blue"]
+c.colors.downloads.start.bg = clr["love-low"]
 
 # Color gradient end for download text.
 # Type: QtColor
@@ -145,11 +143,11 @@ c.colors.downloads.stop.fg = clr["bg"]
 
 # Color gradient stop for download backgrounds.
 # Type: QtColor
-c.colors.downloads.stop.bg = clr["paradise-pink"]
+c.colors.downloads.stop.bg = clr["love-low"]
 
 # Foreground color for downloads with errors.
 # Type: QtColor
-c.colors.downloads.error.fg = clr["paradise-pink"]
+c.colors.downloads.error.fg = clr["love-low"]
 
 c.hints.border = "0px"
 
@@ -164,7 +162,7 @@ c.colors.hints.bg = clr["bg-pine"]
 
 # Font color for the matched part of hints.
 # Type: QtColor
-c.colors.hints.match.fg = clr["paradise-pink"]
+c.colors.hints.match.fg = clr["love-low"]
 
 # Text color for the keyhint widget.
 # Type: QssColor
@@ -180,7 +178,7 @@ c.colors.keyhint.bg = clr["bg"]
 
 # Foreground color of an error message.
 # Type: QssColor
-c.colors.messages.error.fg = clr["paradise-pink"]
+c.colors.messages.error.fg = clr["love-low"]
 
 # Background color of an error message.
 # Type: QssColor
@@ -188,7 +186,7 @@ c.colors.messages.error.bg = clr["bg"]
 
 # Border color of an error message.
 # Type: QssColor
-c.colors.messages.error.border = clr["paradise-pink"]
+c.colors.messages.error.border = clr["love-low"]
 
 # Foreground color of a warning message.
 # Type: QssColor
@@ -236,7 +234,7 @@ c.colors.prompts.selected.bg = clr["bg-selected"]
 
 # Foreground color of the statusbar.
 # Type: QssColor
-c.colors.statusbar.normal.fg = clr["paradise-pink"]
+c.colors.statusbar.normal.fg = clr["love-low"]
 
 # Background color of the statusbar.
 # Type: QssColor
@@ -248,7 +246,7 @@ c.colors.statusbar.insert.fg = clr["bg"]
 
 # Background color of the statusbar in insert mode.
 # Type: QssColor
-c.colors.statusbar.insert.bg = clr["pink"]
+c.colors.statusbar.insert.bg = clr["love"]
 
 # Foreground color of the statusbar in passthrough mode.
 # Type: QssColor
@@ -256,7 +254,7 @@ c.colors.statusbar.passthrough.fg = clr["bg"]
 
 # Background color of the statusbar in passthrough mode.
 # Type: QssColor
-c.colors.statusbar.passthrough.bg = clr["bg-lightened"]
+c.colors.statusbar.passthrough.bg = clr["midnight-green-eagle"]
 
 # Foreground color of the statusbar in private browsing mode.
 # Type: QssColor
@@ -288,7 +286,7 @@ c.colors.statusbar.caret.fg = clr["bg"]
 
 # Background color of the statusbar in caret mode.
 # Type: QssColor
-c.colors.statusbar.caret.bg = clr["rose"]
+c.colors.statusbar.caret.bg = clr["maya-blue"]
 
 # Foreground color of the statusbar in caret mode with a selection.
 # Type: QssColor
@@ -296,11 +294,11 @@ c.colors.statusbar.caret.selection.fg = clr["fg-white"]
 
 # Background color of the statusbar in caret mode with a selection.
 # Type: QssColor
-c.colors.statusbar.caret.selection.bg = clr["bg-lightened"]
+c.colors.statusbar.caret.selection.bg = clr["midnight-green-eagle"]
 
 # Background color of the progress bar.
 # Type: QssColor
-c.colors.statusbar.progress.bg = clr["paradise-pink"]
+c.colors.statusbar.progress.bg = clr["love-low"]
 
 # Default foreground color of the URL in the statusbar.
 # Type: QssColor
@@ -308,7 +306,7 @@ c.colors.statusbar.url.fg = clr["fg"]
 
 # Foreground color of the URL in the statusbar on error.
 # Type: QssColor
-c.colors.statusbar.url.error.fg = clr["paradise-pink"]
+c.colors.statusbar.url.error.fg = clr["love-low"]
 
 # Foreground color of the URL in the statusbar for hovered links.
 # Type: QssColor
@@ -326,7 +324,7 @@ c.colors.statusbar.url.success.https.fg = clr["fg-white"]
 
 # Foreground color of the URL in the statusbar when there's a warning.
 # Type: QssColor
-c.colors.statusbar.url.warn.fg = clr["shimmering-blush"]
+c.colors.statusbar.url.warn.fg = clr["love-low"]
 
 # Background color of the tab bar.
 # Type: QssColor
@@ -334,11 +332,11 @@ c.colors.tabs.bar.bg = clr["bg"]
 
 # Color gradient start for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.start = clr["pink"]
+c.colors.tabs.indicator.start = clr["love"]
 
 # Color gradient end for the tab indicator.
 # Type: QtColor
-c.colors.tabs.indicator.stop = clr["pink"]
+c.colors.tabs.indicator.stop = clr["love"]
 
 # Color for the tab indicator on errors.
 # Type: QtColor
