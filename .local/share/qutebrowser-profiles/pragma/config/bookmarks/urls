@@ -562,3 +562,5 @@ https://vivaldi.com/bk/sd-instacart-en-us Instacart
 https://vivaldi.com/bk/rakuten-us-bk Rakuten
 https://vivaldi.com/bk/hulu Hulu
 https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_releaseDefinition?definitionId=15021&_a=definition-pipeline AW0412001_ALM_SMS - Pipelines
+https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=8958&path=Cloud_aw0363001_PSE_was_qa Library - Pipelines
+https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/Cloud_aw0363001_pse?path=/was/azure-pipeline.yaml azure-pipeline.yaml - Repos
