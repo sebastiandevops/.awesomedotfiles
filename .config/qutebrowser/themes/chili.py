@@ -3,6 +3,7 @@ clr = {
     "bg": "#282828", # bg, gunmetal OK
     "bg-material": "#242424",
     "bg-alt": "#121212", #bg-alt, eerie-black OK
+    "bg-gray": "#44415a",
     # "rich-black": "#001021", # rich black FOGRA 29 (extra)
     "smoky-black": "#282828", # smoky black (extra) OK
     "bg-selected": "#242424", #bg-selected OK
@@ -270,7 +271,7 @@ c.colors.statusbar.command.fg = clr["fg-white"]
 
 # Background color of the statusbar in command mode.
 # Type: QssColor
-c.colors.statusbar.command.bg = clr["bg"]
+c.colors.statusbar.command.bg = clr["bg-gray"]
 
 # Foreground color of the statusbar in private browsing + command mode.
 # Type: QssColor
