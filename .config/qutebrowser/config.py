@@ -242,17 +242,19 @@ c.colors.webpage.darkmode.algorithm = 'lightness-hsl'
 c.colors.webpage.darkmode.contrast = -0.02
 c.colors.webpage.darkmode.policy.images = 'never'
 
+c.url.default_page = "https://www.google.com/"
+
 c.url.searchengines = {
-    'DEFAULT':  'https://duckduckgo.com/?ia=web&q={}',
-    '/g':       'https://google.com/search?hl=en&q={}',
-    '/d':       'https://www.thefreedictionary.com/{}',
-    '/dd':       'https://www.oxfordlearnersdictionaries.com/us/definition/english/{0}_1?q={0}',
-    '/t':       'https://translate.google.com/?sl=auto&tl=es&text={}',
-    '/gi':      'https://www.google.com/search?tbm=isch&q={}&tbs=imgo:1',
-    '/gh':      'https://github.com/sebastiandevops?tab=repositories&q={}',
-    '/gm':      'https://www.google.com/maps/search/{}',
-    '/w':       'https://en.wikipedia.org/wiki/{}',
-    '/yt':      'https://www.youtube.com/results?search_query={}'
+    'DEFAULT': 'https://google.com/search?hl=en&q={}',
+    '/du':     'https://duckduckgo.com/?ia=web&q={}',
+    '/d':      'https://www.thefreedictionary.com/{}',
+    '/dd':     'https://www.oxfordlearnersdictionaries.com/us/definition/english/{0}_1?q={0}',
+    '/t':      'https://translate.google.com/?sl=auto&tl=es&text={}',
+    '/gi':     'https://www.google.com/search?tbm=isch&q={}&tbs=imgo:1',
+    '/gh':     'https://github.com/sebastiandevops?tab=repositories&q={}',
+    '/gm':     'https://www.google.com/maps/search/{}',
+    '/w':      'https://en.wikipedia.org/wiki/{}',
+    '/yt':     'https://www.youtube.com/results?search_query={}'
 }
 
 c.downloads.location.directory = '$HOME/Downloads/'
