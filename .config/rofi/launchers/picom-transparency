@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+string="$(rofi -dmenu -i -p "Transparency:" -theme ~/.config/rofi/launchers/transparency.rasi)"
+# Change the terminal to the one you're using
+bash $HOME/bin/transparency $(echo $string)

@@ -15,4 +15,5 @@
     active:          #c4a7e7FF;
     urgent:          #eb6f92FF;
     border:          #b4637aFF;
+    dim-gray:        #6e6a8699;
 }
