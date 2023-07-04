@@ -14,6 +14,6 @@
     selected:        #286983FF;
     active:          #c4a7e7FF;
     urgent:          #eb6f92FF;
-    border:          #b4637aFF;
+    border:          #48484888;
     dim-gray:        #6e6a8699;
 }
