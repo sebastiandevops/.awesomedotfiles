@@ -282,14 +282,14 @@ config.bind('<Ctrl-->', 'zoom-out')
 
 # fonts config
 c.fonts.default_size = "10pt"
-c.fonts.default_family = "FiraCode Nerd Font, Retina"
-c.fonts.statusbar = 'bold 10.5pt "FiraCode Nerd Font, Retina"'
-c.fonts.completion.category = '10.5pt "FiraCode Nerd Font, Retina"'
-c.fonts.completion.entry = '10.5pt "FiraCode Nerd Font, Retina"'
-c.fonts.tabs.selected = 'bold 10pt "FiraCode Nerd Font, Retina"'
-c.fonts.tabs.unselected = '10pt "FiraCode Nerd Font, Retina"'
-c.fonts.contextmenu = '10.5pt "FiraCode Nerd Font, Retina"'
-c.fonts.keyhint = '10.5pt "FiraCode Nerd Font, Retina"'
+c.fonts.default_family = "FiraCodeNerdFontMono-Retina"
+c.fonts.statusbar = 'bold 10.5pt "FiraCodeNerdFontMono-Retina"'
+c.fonts.completion.category = '10.5pt "FiraCodeNerdFontMono-Retina"'
+c.fonts.completion.entry = '10.5pt "FiraCodeNerdFontMono-Retina"'
+c.fonts.tabs.selected = 'bold 10pt "FiraCodeNerdFontMono-Retina"'
+c.fonts.tabs.unselected = '10pt "FiraCodeNerdFontMono-Retina"'
+c.fonts.contextmenu = '10.5pt "FiraCodeNerdFontMono-Retina"'
+c.fonts.keyhint = '10.5pt "FiraCodeNerdFontMono-Retina"'
 
 c.tabs.padding = {'bottom': 3, 'left': 8, 'right': 8, 'top': 3}
 c.statusbar.padding = {"bottom": 3, "left": 0, "right": 8, "top": 3}
