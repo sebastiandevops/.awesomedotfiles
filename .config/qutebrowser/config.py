@@ -295,6 +295,8 @@ c.tabs.padding = {'bottom': 3, 'left': 8, 'right': 8, 'top': 3}
 c.statusbar.padding = {"bottom": 3, "left": 0, "right": 8, "top": 3}
 c.hints.padding = {"bottom": 2, "left": 2, "right": 2, "top": 2}
 c.tabs.indicator.padding = {"bottom": 3, "left": 0, "right": 4, "top": 3}
+c.tabs.new_position.unrelated = "next"
+c.tabs.select_on_remove = "last-used"
 
 # c.fonts.web.family.sans_serif = 'default_family'
 # c.fonts.web.family.standard = 'default_family'
@@ -344,4 +346,8 @@ config.bind('T','spawn --userscript qute_search -t',mode='caret')
 config.bind('D','spawn --userscript qute_search -d',mode='caret')
 config.bind('O','spawn --userscript qute_search -o',mode='caret')
 
+c.scrolling.smooth = True
 
+c.statusbar.widgets = ["keypress", "clock", "search_match", "url", "scroll", "history", "progress"]
+
+c.window.transparent = True
