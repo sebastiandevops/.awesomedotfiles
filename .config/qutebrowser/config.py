@@ -348,6 +348,6 @@ config.bind('O','spawn --userscript qute_search -o',mode='caret')
 
 c.scrolling.smooth = True
 
-c.statusbar.widgets = ["keypress", "clock", "search_match", "url", "scroll", "history", "progress"]
+c.statusbar.widgets = ["keypress", "search_match", "url", "scroll", "history", "progress"]
 
 c.window.transparent = True
