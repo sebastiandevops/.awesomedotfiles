@@ -12,8 +12,8 @@
     foreground:      #d4be98;
     foreground-text: #d4be98;
     selected:        #d4be98;
-    active:          #a9b665FF;
-    urgent:          #eb6f92FF;
-    border:          #48484888;
-    dim-gray:        #6e6a8699;
+    active:          #98D4A0FF;
+    urgent:          #D498CCFF;
+    border:          #484848FF;
+    dim-gray:        #6e6a86FF;
 }
