@@ -72,14 +72,14 @@ textbox-prompt-colon {
     padding:                     10px 14px;
     border-radius:               10px;
     background-color:            @urgent;
-    text-color:                  @foreground-text;
+    text-color:                  @background;
 }
 prompt {
     enabled:                     true;
     padding:                     10px;
     border-radius:               10px;
     background-color:            @active;
-    text-color:                  @foreground-text;
+    text-color:                  @background;
 }
 
 /*****----- Message -----*****/
