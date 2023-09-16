@@ -57,7 +57,7 @@ window {
     transparency:                "real";
     location:                    center;
     anchor:                      center;
-    fullscreen:                  false;
+    fullscreen:                  true;
     width:                       400px;
     x-offset:                    0px;
     y-offset:                    0px;
@@ -65,7 +65,7 @@ window {
     /* properties for all widgets */
     enabled:                     true;
     margin:                      0px;
-    padding:                     0px;
+    padding:                     35% 30%;
     border:                      3px solid;
     border-radius:               5px;
     border-color:                @window-border-colour;
@@ -160,7 +160,7 @@ listview {
     lines:                       0;
     cycle:                       true;
     dynamic:                     true;
-    scrollbar:                   true;
+    scrollbar:                   false;
     layout:                      vertical;
     reverse:                     false;
     fixed-height:                true;

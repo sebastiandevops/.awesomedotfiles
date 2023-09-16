@@ -22,7 +22,7 @@ window {
     transparency:                "real";
     location:                    center;
     anchor:                      center;
-    fullscreen:                  false;
+    fullscreen:                  true;
     width:                       300px;
     x-offset:                    0px;
     y-offset:                    0px;
@@ -30,7 +30,7 @@ window {
     /* properties for all widgets */
     enabled:                     true;
     margin:                      0px;
-    padding:                     0px;
+    padding:                     35% 46%;
     border:                      3px solid;
     border-radius:               5px;
     border-color:                @border;
@@ -66,7 +66,7 @@ inputbar {
 }
 
 textbox-prompt-colon {
-    enabled:                     true;
+    enabled:                     false;
     expand:                      false;
     str:                         "";
     padding:                     10px 14px;
@@ -75,7 +75,7 @@ textbox-prompt-colon {
     text-color:                  @foreground-text;
 }
 prompt {
-    enabled:                     true;
+    enabled:                     false;
     padding:                     10px;
     border-radius:               10px;
     background-color:            @active;
@@ -84,7 +84,7 @@ prompt {
 
 /*****----- Message -----*****/
 message {
-    enabled:                     true;
+    enabled:                     false;
     margin:                      0px;
     padding:                     10px;
     border:                      0px solid;
@@ -157,5 +157,5 @@ element-text {
 }
 element selected.normal {
     background-color:            var(selected);
-    text-color:                  var(foreground-text);
+    text-color:                  var(background);
 }

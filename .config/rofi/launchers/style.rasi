@@ -57,7 +57,7 @@ window {
     transparency:                "real";
     location:                    center;
     anchor:                      center;
-    fullscreen:                  false;
+    fullscreen:                  true;
     width:                       600px;
     x-offset:                    0px;
     y-offset:                    0px;
@@ -65,7 +65,7 @@ window {
     /* properties for all widgets */
     enabled:                     true;
     margin:                      0px;
-    padding:                     0px;
+    padding:                     30% 30%;
     border:                      3px solid;
     border-radius:               5px;
     border-color:                @window-border-colour;
@@ -128,7 +128,7 @@ entry {
     background-color:            inherit;
     text-color:                  inherit;
     cursor:                      text;
-    placeholder:                 "Search...";
+    placeholder:                 "";
     placeholder-color:           inherit;
 }
 num-filtered-rows {
@@ -180,6 +180,7 @@ listview {
     cursor:                      "default";
 }
 scrollbar {
+		width: 											 4px;
     handle-width:                5px ;
     handle-color:                @handle-colour;
     border-radius:               10px;
@@ -209,11 +210,11 @@ element normal.urgent {
 }
 element normal.active {
     background-color:            var(active-background);
-    text-color:                  var(foreground-text-colour);
+    text-color:                  var(selected-active-background);
 }
 element selected.normal {
     background-color:            var(selected-normal-background);
-    text-color:                  var(foreground-text-colour);
+    text-color:                  var(background-colour);
 }
 element selected.urgent {
     background-color:            var(selected-urgent-background);
@@ -273,7 +274,7 @@ button {
 }
 button selected {
     background-color:            var(selected-normal-background);
-    text-color:                  var(foreground-text-colour);
+    text-color:                  var(background-colour);
 }
 
 /*****----- Message -----*****/
