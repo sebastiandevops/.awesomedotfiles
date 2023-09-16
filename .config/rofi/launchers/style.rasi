@@ -65,8 +65,8 @@ window {
     /* properties for all widgets */
     enabled:                     true;
     margin:                      0px;
-    padding:                     30% 30%;
-    border:                      3px solid;
+    padding:                     35% 30%;
+    border:                      0px;
     border-radius:               5px;
     border-color:                @window-border-colour;
     cursor:                      "default";
