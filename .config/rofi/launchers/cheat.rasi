@@ -21,7 +21,7 @@ configuration {
 
 /*****----- Global Properties -----*****/
 @import                          "shared/colors.rasi"
-@import                          "shared/fonts.rasi"
+@import                          "shared/alt_fonts.rasi"
 
 * {
     foreground-text-colour:      var(foreground-text);
