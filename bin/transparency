@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 file="$HOME/.config/picom/picom.conf"
 window=$2
-rule=${3:-75}
+rule=${3:-70}
 
 if [[ "$1" == "--off" ]]; then
     sed -i "s:\b[0-9]\{2\}\b\:class_g \{1,\}= '$window:100\:class_g = '$window:g" "$file"
