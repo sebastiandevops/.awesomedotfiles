@@ -260,7 +260,7 @@ c.url.searchengines = {
 c.downloads.location.directory = '$HOME/Downloads/'
 
 # Bindings for normal mode
-config.bind('t', 'set-cmd-text -s :open -t')
+config.bind('t', 'cmd-set-text -s :open -t')
 config.bind("xb", "config-cycle statusbar.show always never")
 config.bind('xt', 'config-cycle tabs.show always never')
 config.bind('xx', 'config-cycle statusbar.show always never;; config-cycle tabs.show always never')
