@@ -13,6 +13,7 @@ from os import environ
 import subprocess
 import os
 import qutebrowser.api
+from functions import open_tab
 from qutebrowser.api import interceptor
 
 # Block youtube ads
@@ -260,7 +261,7 @@ c.url.searchengines = {
 c.downloads.location.directory = '$HOME/Downloads/'
 
 # Bindings for normal mode
-config.bind('t', 'set-cmd-text -s :open -t')
+config.bind('t', open_tab())
 config.bind("xb", "config-cycle statusbar.show always never")
 config.bind('xt', 'config-cycle tabs.show always never')
 config.bind('xx', 'config-cycle statusbar.show always never;; config-cycle tabs.show always never')
