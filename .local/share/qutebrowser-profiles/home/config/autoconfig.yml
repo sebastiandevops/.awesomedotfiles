@@ -29,15 +29,6 @@ settings:
       left: 0
       right: 0
       top: 1
-  statusbar.widgets:
-    global:
-    - keypress
-    - search_match
-    - url
-    - scroll
-    - history
-    - tabs
-    - progress
   tabs.indicator.padding:
     global:
       bottom: 2

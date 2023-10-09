@@ -13,7 +13,7 @@ from os import environ
 import subprocess
 import os
 import qutebrowser.api
-from functions import open_tab
+from functions import open_tab, get_status_line_widgets
 from qutebrowser.api import interceptor
 
 # Block youtube ads
@@ -349,6 +349,6 @@ config.bind('O','spawn --userscript qute_search -o',mode='caret')
 
 c.scrolling.smooth = True
 
-c.statusbar.widgets = ["keypress", "search_match", "url", "scroll", "history", "progress"]
+c.statusbar.widgets = get_status_line_widgets()
 
 c.window.transparent = True
