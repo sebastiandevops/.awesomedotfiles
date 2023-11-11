@@ -14,7 +14,7 @@ configuration {
 
 /*****----- Global Properties -----*****/
 @import                          "shared/colors.rasi"
-@import                          "shared/fonts.rasi"
+@import                          "shared/alt_fonts.rasi"
 
 /*****----- Main Window -----*****/
 window {
@@ -97,7 +97,7 @@ textbox {
     background-color:            transparent;
     text-color:                  inherit;
     vertical-align:              0.5;
-    horizontal-align:            0.0;
+    horizontal-align:            0.5;
     placeholder-color:           @foreground;
     blink:                       true;
     markup:                      true;
@@ -153,7 +153,7 @@ element-text {
     text-color:                  inherit;
     cursor:                      inherit;
     vertical-align:              0.5;
-    horizontal-align:            0.0;
+    horizontal-align:            0.5;
 }
 element selected.normal {
     background-color:            var(selected);
