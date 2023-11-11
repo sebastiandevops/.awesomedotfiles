@@ -8,5 +8,5 @@
  **/
 
 * {
-    font: "FiraCode Nerd Font Mono, SemiBold 12";
+    font: "EllographCF, Bold 12";
 }
