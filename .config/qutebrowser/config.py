@@ -283,14 +283,14 @@ config.bind('<Ctrl-->', 'zoom-out')
 
 # fonts config
 c.fonts.default_size = "10pt"
-c.fonts.default_family = "FiraCode Nerd Font"
-c.fonts.statusbar = 'bold 10.5pt "FiraCode Nerd Font"'
-c.fonts.completion.category = '10.5pt "FiraCode Nerd Font"'
-c.fonts.completion.entry = '10.5pt "FiraCode Nerd Font"'
-c.fonts.tabs.selected = 'bold 10pt "FiraCode Nerd Font"'
-c.fonts.tabs.unselected = '10pt "FiraCode Nerd Font"'
-c.fonts.contextmenu = '10.5pt "FiraCode Nerd Font"'
-c.fonts.keyhint = '10.5pt "FiraCode Nerd Font"'
+c.fonts.default_family = "EllographCF"
+c.fonts.statusbar = 'bold 10.5pt "EllographCF"'
+c.fonts.completion.category = '10.5pt "EllographCF"'
+c.fonts.completion.entry = '10.5pt "EllographCF"'
+c.fonts.tabs.selected = 'bold 10pt "EllographCF"'
+c.fonts.tabs.unselected = '10pt "EllographCF"'
+c.fonts.contextmenu = '10.5pt "EllographCF"'
+c.fonts.keyhint = '10.5pt "EllographCF"'
 
 c.tabs.padding = {'bottom': 3, 'left': 8, 'right': 8, 'top': 3}
 c.statusbar.padding = {"bottom": 3, "left": 0, "right": 8, "top": 3}
