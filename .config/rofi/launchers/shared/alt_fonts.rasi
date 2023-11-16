@@ -8,5 +8,5 @@
  **/
 
 * {
-    font: "EllographCF, Bold 18";
+    font: "EllographCF, Bold 14";
 }
