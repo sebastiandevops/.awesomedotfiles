@@ -67,7 +67,7 @@ window {
     margin:                      0px;
     padding:                     35% 30%;
     border:                      0px;
-    border-radius:               5px;
+    border-radius:               0px;
     border-color:                @window-border-colour;
     cursor:                      "default";
     /* Backgroud Colors */
